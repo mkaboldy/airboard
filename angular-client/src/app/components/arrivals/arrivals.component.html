@@ -1,3 +1,20 @@
-<p>
-  arrivals works!
-</p>
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th>Status</th>
+      <th>Flight</th>
+      <th>From</th>
+      <th>Scheduled</th>
+      <th>Remark</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let arrival of arrivals">
+      <td>{{ arrival.status }}</td>
+      <td>{{ arrival.flight }}</td>
+      <td>{{ arrival.from }}</td>
+      <td>{{ arrival.scheduled }}</td>
+      <td>{{ arrival.remark }}</td>
+    </tr>
+  </tbody>
+</table>

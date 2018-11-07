@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ApiService } from '../../services/api.service';
 
 @Component({
   selector: 'app-departures',
@@ -7,9 +8,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DeparturesComponent implements OnInit {
 
-  constructor() { }
+  departures;
+
+  constructor(private apiService: ApiService) { }
+
+  loadDepartures() {
+    this.apiService.getDepartures().subscribe(data => { this.departures = data.departures; });
+  }
 
   ngOnInit() {
+    this.loadDepartures();
   }
 
 }

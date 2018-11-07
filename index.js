@@ -5,6 +5,8 @@ const mongoose = require('mongoose');
 // const config = require('./config/database');
 const path = require('path');
 const bodyParser = require('body-parser');
+const api = require('./routes/api')(router);
+const cors = require('cors'); // CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 
 mongoose.Promise = global.Promise;
 /*
@@ -18,10 +20,11 @@ mongoose.connect(config.uri, (err) => {
 });
 */
 
+app.use(cors({ origin: 'http://localhost:4200' }));
 app.use(express.static(__dirname + '/angular-client/dist/angular-client'));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
-// app.use('/authentication', authentication);
+app.use('/api', api);
 
 app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname + '/angular-client/dist/angular-client/index.html'));
