@@ -1,0 +1,8159 @@
+[
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "20",
+    "scheduledTime": "2018-11-08T19:04:00.000",
+    "estimatedTime": "2018-11-08T19:04:00.000"
+    },
+    "arrival": {
+    "iataCode": "ALB",
+    "icaoCode": "KALB",
+    "gate": "C1",
+    "scheduledTime": "2018-11-08T20:26:00.000",
+    "estimatedTime": "2018-11-08T20:26:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4823",
+    "iataNumber": "AA4823",
+    "icaoNumber": "AAL4823"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4823",
+    "iataNumber": "PT4823",
+    "icaoNumber": "PDT4823"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "20",
+    "scheduledTime": "2018-11-08T19:04:00.000",
+    "estimatedTime": "2018-11-08T19:04:00.000"
+    },
+    "arrival": {
+    "iataCode": "ALB",
+    "icaoCode": "KALB",
+    "gate": "C1",
+    "scheduledTime": "2018-11-08T20:26:00.000",
+    "estimatedTime": "2018-11-08T20:26:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4823",
+    "iataNumber": "PT4823",
+    "icaoNumber": "PDT4823"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D8",
+    "scheduledTime": "2018-11-08T19:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "CVG",
+    "icaoCode": "KCVG",
+    "terminal": "3",
+    "gate": "B28",
+    "baggage": "2",
+    "scheduledTime": "2018-11-08T21:05:00.000"
+    },
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "5226",
+    "iataNumber": "DL5226",
+    "icaoNumber": "DAL5226"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Endeavor Air",
+    "iataCode": "9E",
+    "icaoCode": "EDV"
+    },
+    "flight": {
+    "number": "5226",
+    "iataNumber": "9E5226",
+    "icaoNumber": "EDV5226"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D8",
+    "scheduledTime": "2018-11-08T19:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "CVG",
+    "icaoCode": "KCVG",
+    "terminal": "3",
+    "gate": "B28",
+    "baggage": "2",
+    "scheduledTime": "2018-11-08T21:05:00.000"
+    },
+    "airline": {
+    "name": "Endeavor Air",
+    "iataCode": "9E",
+    "icaoCode": "EDV"
+    },
+    "flight": {
+    "number": "5226",
+    "iataNumber": "9E5226",
+    "icaoNumber": "EDV5226"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C28",
+    "scheduledTime": "2018-11-08T19:10:00.000",
+    "estimatedTime": "2018-11-08T19:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "RSW",
+    "icaoCode": "KRSW",
+    "gate": "D3",
+    "scheduledTime": "2018-11-08T22:12:00.000",
+    "estimatedTime": "2018-11-08T22:12:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "5697",
+    "iataNumber": "BA5697",
+    "icaoNumber": "BAW5697"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "631",
+    "iataNumber": "AA631",
+    "icaoNumber": "AAL631"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C28",
+    "scheduledTime": "2018-11-08T19:10:00.000",
+    "estimatedTime": "2018-11-08T19:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "RSW",
+    "icaoCode": "KRSW",
+    "gate": "D3",
+    "scheduledTime": "2018-11-08T22:12:00.000",
+    "estimatedTime": "2018-11-08T22:12:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "631",
+    "iataNumber": "AA631",
+    "icaoNumber": "AAL631"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "33",
+    "scheduledTime": "2018-11-08T19:11:00.000",
+    "estimatedTime": "2018-11-08T19:11:00.000"
+    },
+    "arrival": {
+    "iataCode": "ROC",
+    "icaoCode": "KROC",
+    "gate": "A8",
+    "baggage": "4",
+    "scheduledTime": "2018-11-08T20:36:00.000",
+    "estimatedTime": "2018-11-08T20:36:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4934",
+    "iataNumber": "AA4934",
+    "icaoNumber": "AAL4934"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4934",
+    "iataNumber": "PT4934",
+    "icaoNumber": "PDT4934"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "33",
+    "scheduledTime": "2018-11-08T19:11:00.000",
+    "estimatedTime": "2018-11-08T19:11:00.000"
+    },
+    "arrival": {
+    "iataCode": "ROC",
+    "icaoCode": "KROC",
+    "gate": "A8",
+    "baggage": "4",
+    "scheduledTime": "2018-11-08T20:36:00.000",
+    "estimatedTime": "2018-11-08T20:36:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4934",
+    "iataNumber": "PT4934",
+    "icaoNumber": "PDT4934"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D10",
+    "scheduledTime": "2018-11-08T19:11:00.000"
+    },
+    "arrival": {
+    "iataCode": "RDU",
+    "icaoCode": "KRDU",
+    "terminal": "2",
+    "gate": "C14",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "5503",
+    "iataNumber": "DL5503",
+    "icaoNumber": "DAL5503"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Endeavor Air",
+    "iataCode": "9E",
+    "icaoCode": "EDV"
+    },
+    "flight": {
+    "number": "5503",
+    "iataNumber": "9E5503",
+    "icaoNumber": "EDV5503"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D10",
+    "scheduledTime": "2018-11-08T19:11:00.000"
+    },
+    "arrival": {
+    "iataCode": "RDU",
+    "icaoCode": "KRDU",
+    "terminal": "2",
+    "gate": "C14",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "airline": {
+    "name": "Endeavor Air",
+    "iataCode": "9E",
+    "icaoCode": "EDV"
+    },
+    "flight": {
+    "number": "5503",
+    "iataNumber": "9E5503",
+    "icaoNumber": "EDV5503"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T19:24:00.000",
+    "estimatedTime": "2018-11-08T19:24:00.000"
+    },
+    "arrival": {
+    "iataCode": "DAY",
+    "icaoCode": "KDAY",
+    "scheduledTime": "2018-11-08T21:14:00.000",
+    "estimatedTime": "2018-11-08T21:14:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "5687",
+    "iataNumber": "AA5687",
+    "icaoNumber": "AAL5687"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5687",
+    "iataNumber": "OH5687",
+    "icaoNumber": "JIA5687"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T19:24:00.000",
+    "estimatedTime": "2018-11-08T19:24:00.000"
+    },
+    "arrival": {
+    "iataCode": "DAY",
+    "icaoCode": "KDAY",
+    "scheduledTime": "2018-11-08T21:14:00.000",
+    "estimatedTime": "2018-11-08T21:14:00.000"
+    },
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5687",
+    "iataNumber": "OH5687",
+    "icaoNumber": "JIA5687"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B9",
+    "scheduledTime": "2018-11-08T19:25:00.000",
+    "estimatedTime": "2018-11-08T19:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "BOS",
+    "icaoCode": "KBOS",
+    "terminal": "B",
+    "gate": "B8",
+    "scheduledTime": "2018-11-08T20:48:00.000",
+    "estimatedTime": "2018-11-08T20:48:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1856",
+    "iataNumber": "AA1856",
+    "icaoNumber": "AAL1856"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D14",
+    "scheduledTime": "2018-11-08T19:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "S",
+    "gate": "B2",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T21:39:00.000"
+    },
+    "airline": {
+    "name": "Jet Airways (India)",
+    "iataCode": "9W",
+    "icaoCode": "JAI"
+    },
+    "flight": {
+    "number": "5657",
+    "iataNumber": "9W5657",
+    "icaoNumber": "JAI5657"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2036",
+    "iataNumber": "DL2036",
+    "icaoNumber": "DAL2036"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D14",
+    "scheduledTime": "2018-11-08T19:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "S",
+    "gate": "B2",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T21:39:00.000"
+    },
+    "airline": {
+    "name": "Air France",
+    "iataCode": "AF",
+    "icaoCode": "AFR"
+    },
+    "flight": {
+    "number": "2645",
+    "iataNumber": "AF2645",
+    "icaoNumber": "AFR2645"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2036",
+    "iataNumber": "DL2036",
+    "icaoNumber": "DAL2036"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D14",
+    "scheduledTime": "2018-11-08T19:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "S",
+    "gate": "B2",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T21:39:00.000"
+    },
+    "airline": {
+    "name": "Korean Air",
+    "iataCode": "KE",
+    "icaoCode": "KAL"
+    },
+    "flight": {
+    "number": "6998",
+    "iataNumber": "KE6998",
+    "icaoNumber": "KAL6998"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2036",
+    "iataNumber": "DL2036",
+    "icaoNumber": "DAL2036"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D14",
+    "scheduledTime": "2018-11-08T19:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "S",
+    "gate": "B2",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T21:39:00.000"
+    },
+    "airline": {
+    "name": "KLM",
+    "iataCode": "KL",
+    "icaoCode": "KLM"
+    },
+    "flight": {
+    "number": "6789",
+    "iataNumber": "KL6789",
+    "icaoNumber": "KLM6789"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2036",
+    "iataNumber": "DL2036",
+    "icaoNumber": "DAL2036"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D14",
+    "scheduledTime": "2018-11-08T19:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "S",
+    "gate": "B2",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T21:39:00.000"
+    },
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2036",
+    "iataNumber": "DL2036",
+    "icaoNumber": "DAL2036"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C30",
+    "scheduledTime": "2018-11-08T19:27:00.000",
+    "estimatedTime": "2018-11-08T19:27:00.000"
+    },
+    "arrival": {
+    "iataCode": "CLT",
+    "icaoCode": "KCLT",
+    "gate": "B5",
+    "baggage": "B",
+    "scheduledTime": "2018-11-08T21:19:00.000",
+    "estimatedTime": "2018-11-08T21:19:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "738",
+    "iataNumber": "AA738",
+    "icaoNumber": "AAL738"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "7",
+    "scheduledTime": "2018-11-08T19:30:00.000",
+    "estimatedTime": "2018-11-08T19:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "MDT",
+    "icaoCode": "KMDT",
+    "scheduledTime": "2018-11-08T20:22:00.000",
+    "estimatedTime": "2018-11-08T20:22:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4842",
+    "iataNumber": "AA4842",
+    "icaoNumber": "AAL4842"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4842",
+    "iataNumber": "PT4842",
+    "icaoNumber": "PDT4842"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "7",
+    "scheduledTime": "2018-11-08T19:30:00.000",
+    "estimatedTime": "2018-11-08T19:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "MDT",
+    "icaoCode": "KMDT",
+    "scheduledTime": "2018-11-08T20:22:00.000",
+    "estimatedTime": "2018-11-08T20:22:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4842",
+    "iataNumber": "PT4842",
+    "icaoNumber": "PDT4842"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "26",
+    "scheduledTime": "2018-11-08T19:30:00.000",
+    "estimatedTime": "2018-11-08T19:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T07:45:00.000",
+    "estimatedTime": "2018-11-09T07:45:00.000"
+    },
+    "airline": {
+    "name": "Finnair",
+    "iataCode": "AY",
+    "icaoCode": "FIN"
+    },
+    "flight": {
+    "number": "4045",
+    "iataNumber": "AY4045",
+    "icaoNumber": "FIN4045"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "736",
+    "iataNumber": "AA736",
+    "icaoNumber": "AAL736"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "26",
+    "scheduledTime": "2018-11-08T19:30:00.000",
+    "estimatedTime": "2018-11-08T19:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T07:45:00.000",
+    "estimatedTime": "2018-11-09T07:45:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "1533",
+    "iataNumber": "BA1533",
+    "icaoNumber": "BAW1533"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "736",
+    "iataNumber": "AA736",
+    "icaoNumber": "AAL736"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "26",
+    "scheduledTime": "2018-11-08T19:30:00.000",
+    "estimatedTime": "2018-11-08T19:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T07:45:00.000",
+    "estimatedTime": "2018-11-09T07:45:00.000"
+    },
+    "airline": {
+    "name": "Iberia",
+    "iataCode": "IB",
+    "icaoCode": "IBE"
+    },
+    "flight": {
+    "number": "4672",
+    "iataNumber": "IB4672",
+    "icaoNumber": "IBE4672"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "736",
+    "iataNumber": "AA736",
+    "icaoNumber": "AAL736"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "26",
+    "scheduledTime": "2018-11-08T19:30:00.000",
+    "estimatedTime": "2018-11-08T19:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T07:45:00.000",
+    "estimatedTime": "2018-11-09T07:45:00.000"
+    },
+    "airline": {
+    "name": "El Al",
+    "iataCode": "LY",
+    "icaoCode": "ELY"
+    },
+    "flight": {
+    "number": "8157",
+    "iataNumber": "LY8157",
+    "icaoNumber": "ELY8157"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "736",
+    "iataNumber": "AA736",
+    "icaoNumber": "AAL736"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "26",
+    "scheduledTime": "2018-11-08T19:30:00.000",
+    "estimatedTime": "2018-11-08T19:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T07:45:00.000",
+    "estimatedTime": "2018-11-09T07:45:00.000"
+    },
+    "airline": {
+    "name": "Malaysia Airlines",
+    "iataCode": "MH",
+    "icaoCode": "MAS"
+    },
+    "flight": {
+    "number": "9534",
+    "iataNumber": "MH9534",
+    "icaoNumber": "MAS9534"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "736",
+    "iataNumber": "AA736",
+    "icaoNumber": "AAL736"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "26",
+    "scheduledTime": "2018-11-08T19:30:00.000",
+    "estimatedTime": "2018-11-08T19:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T07:45:00.000",
+    "estimatedTime": "2018-11-09T07:45:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "736",
+    "iataNumber": "AA736",
+    "icaoNumber": "AAL736"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "14",
+    "scheduledTime": "2018-11-08T19:35:00.000",
+    "estimatedTime": "2018-11-08T19:35:00.000"
+    },
+    "arrival": {
+    "iataCode": "MEX",
+    "icaoCode": "MMMX",
+    "terminal": "1",
+    "scheduledTime": "2018-11-08T23:59:00.000",
+    "estimatedTime": "2018-11-08T23:59:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "497",
+    "iataNumber": "AA497",
+    "icaoNumber": "AAL497"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D3",
+    "scheduledTime": "2018-11-08T19:40:00.000",
+    "estimatedTime": "2018-11-08T19:40:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "1",
+    "gate": "B6",
+    "scheduledTime": "2018-11-08T21:01:00.000",
+    "estimatedTime": "2018-11-08T21:01:00.000"
+    },
+    "airline": {
+    "name": "Asiana Airlines",
+    "iataCode": "OZ",
+    "icaoCode": "AAR"
+    },
+    "flight": {
+    "number": "6331",
+    "iataNumber": "OZ6331",
+    "icaoNumber": "AAR6331"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "United Airlines",
+    "iataCode": "UA",
+    "icaoCode": "UAL"
+    },
+    "flight": {
+    "number": "2382",
+    "iataNumber": "UA2382",
+    "icaoNumber": "UAL2382"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D3",
+    "scheduledTime": "2018-11-08T19:40:00.000",
+    "estimatedTime": "2018-11-08T19:40:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "1",
+    "gate": "B6",
+    "scheduledTime": "2018-11-08T21:01:00.000",
+    "estimatedTime": "2018-11-08T21:01:00.000"
+    },
+    "airline": {
+    "name": "United Airlines",
+    "iataCode": "UA",
+    "icaoCode": "UAL"
+    },
+    "flight": {
+    "number": "2382",
+    "iataNumber": "UA2382",
+    "icaoNumber": "UAL2382"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D14",
+    "scheduledTime": "2018-11-08T19:44:00.000"
+    },
+    "arrival": {
+    "iataCode": "MSP",
+    "icaoCode": "KMSP",
+    "terminal": "1",
+    "gate": "F3",
+    "baggage": "2",
+    "scheduledTime": "2018-11-08T21:41:00.000"
+    },
+    "airline": {
+    "name": "WestJet",
+    "iataCode": "WS",
+    "icaoCode": "WJA"
+    },
+    "flight": {
+    "number": "7345",
+    "iataNumber": "WS7345",
+    "icaoNumber": "WJA7345"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "979",
+    "iataNumber": "DL979",
+    "icaoNumber": "DAL979"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D14",
+    "scheduledTime": "2018-11-08T19:44:00.000"
+    },
+    "arrival": {
+    "iataCode": "MSP",
+    "icaoCode": "KMSP",
+    "terminal": "1",
+    "gate": "F3",
+    "baggage": "2",
+    "scheduledTime": "2018-11-08T21:41:00.000"
+    },
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "979",
+    "iataNumber": "DL979",
+    "icaoNumber": "DAL979"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "E5",
+    "scheduledTime": "2018-11-08T19:45:00.000",
+    "estimatedTime": "2018-11-08T19:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "LAS",
+    "icaoCode": "KLAS",
+    "terminal": "1",
+    "gate": "B25",
+    "scheduledTime": "2018-11-08T22:36:00.000",
+    "estimatedTime": "2018-11-08T22:36:00.000"
+    },
+    "airline": {
+    "name": "Spirit Airlines",
+    "iataCode": "NK",
+    "icaoCode": "NKS"
+    },
+    "flight": {
+    "number": "395",
+    "iataNumber": "NK395",
+    "icaoNumber": "NKS395"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "31",
+    "scheduledTime": "2018-11-08T19:46:00.000",
+    "estimatedTime": "2018-11-08T19:46:00.000"
+    },
+    "arrival": {
+    "iataCode": "YYZ",
+    "icaoCode": "CYYZ",
+    "terminal": "3",
+    "scheduledTime": "2018-11-08T21:30:00.000",
+    "estimatedTime": "2018-11-08T21:30:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4843",
+    "iataNumber": "AA4843",
+    "icaoNumber": "AAL4843"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4843",
+    "iataNumber": "PT4843",
+    "icaoNumber": "PDT4843"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "31",
+    "scheduledTime": "2018-11-08T19:46:00.000",
+    "estimatedTime": "2018-11-08T19:46:00.000"
+    },
+    "arrival": {
+    "iataCode": "YYZ",
+    "icaoCode": "CYYZ",
+    "terminal": "3",
+    "scheduledTime": "2018-11-08T21:30:00.000",
+    "estimatedTime": "2018-11-08T21:30:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4843",
+    "iataNumber": "PT4843",
+    "icaoNumber": "PDT4843"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "gate": "E11",
+    "scheduledTime": "2018-11-08T19:50:00.000",
+    "estimatedTime": "2018-11-08T19:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "TPA",
+    "icaoCode": "KTPA",
+    "scheduledTime": "2018-11-08T22:35:00.000",
+    "estimatedTime": "2018-11-08T22:35:00.000"
+    },
+    "airline": {
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "icaoCode": "SWA"
+    },
+    "flight": {
+    "number": "823",
+    "iataNumber": "WN823",
+    "icaoNumber": "SWA823"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "scheduledTime": "2018-11-08T19:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "DOH",
+    "icaoCode": "OTHH",
+    "scheduledTime": "2018-11-09T16:25:00.000"
+    },
+    "airline": {
+    "name": "Malaysia Airlines",
+    "iataCode": "MH",
+    "icaoCode": "MAS"
+    },
+    "flight": {
+    "number": "9076",
+    "iataNumber": "MH9076",
+    "icaoNumber": "MAS9076"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Qatar Airways",
+    "iataCode": "QR",
+    "icaoCode": "QTR"
+    },
+    "flight": {
+    "number": "728",
+    "iataNumber": "QR728",
+    "icaoNumber": "QTR728"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "scheduledTime": "2018-11-08T19:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "DOH",
+    "icaoCode": "OTHH",
+    "scheduledTime": "2018-11-09T16:25:00.000"
+    },
+    "airline": {
+    "name": "Qatar Airways",
+    "iataCode": "QR",
+    "icaoCode": "QTR"
+    },
+    "flight": {
+    "number": "728",
+    "iataNumber": "QR728",
+    "icaoNumber": "QTR728"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "gate": "E16",
+    "scheduledTime": "2018-11-08T19:55:00.000",
+    "estimatedTime": "2018-11-08T19:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "FLL",
+    "icaoCode": "KFLL",
+    "terminal": "1",
+    "gate": "A4",
+    "scheduledTime": "2018-11-08T22:45:00.000",
+    "estimatedTime": "2018-11-08T22:45:00.000"
+    },
+    "airline": {
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "icaoCode": "SWA"
+    },
+    "flight": {
+    "number": "2122",
+    "iataNumber": "WN2122",
+    "icaoNumber": "SWA2122"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "11",
+    "scheduledTime": "2018-11-08T19:58:00.000",
+    "estimatedTime": "2018-11-08T19:58:00.000"
+    },
+    "arrival": {
+    "iataCode": "ROA",
+    "icaoCode": "KROA",
+    "gate": "3",
+    "scheduledTime": "2018-11-08T21:26:00.000",
+    "estimatedTime": "2018-11-08T21:26:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4982",
+    "iataNumber": "AA4982",
+    "icaoNumber": "AAL4982"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4982",
+    "iataNumber": "PT4982",
+    "icaoNumber": "PDT4982"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "11",
+    "scheduledTime": "2018-11-08T19:58:00.000",
+    "estimatedTime": "2018-11-08T19:58:00.000"
+    },
+    "arrival": {
+    "iataCode": "ROA",
+    "icaoCode": "KROA",
+    "gate": "3",
+    "scheduledTime": "2018-11-08T21:26:00.000",
+    "estimatedTime": "2018-11-08T21:26:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4982",
+    "iataNumber": "PT4982",
+    "icaoNumber": "PDT4982"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "gate": "E12",
+    "scheduledTime": "2018-11-08T20:00:00.000",
+    "estimatedTime": "2018-11-08T20:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "MCO",
+    "icaoCode": "KMCO",
+    "terminal": "A",
+    "gate": "106",
+    "scheduledTime": "2018-11-08T22:35:00.000",
+    "estimatedTime": "2018-11-08T22:35:00.000"
+    },
+    "airline": {
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "icaoCode": "SWA"
+    },
+    "flight": {
+    "number": "2025",
+    "iataNumber": "WN2025",
+    "icaoNumber": "SWA2025"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D1",
+    "scheduledTime": "2018-11-08T20:00:00.000",
+    "estimatedTime": "2018-11-08T20:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "IAD",
+    "icaoCode": "KIAD",
+    "gate": "A2",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T21:01:00.000",
+    "estimatedTime": "2018-11-08T21:01:00.000"
+    },
+    "airline": {
+    "name": "United Airlines",
+    "iataCode": "UA",
+    "icaoCode": "UAL"
+    },
+    "flight": {
+    "number": "4814",
+    "iataNumber": "UA4814",
+    "icaoNumber": "UAL4814"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Air Wisconsin",
+    "iataCode": "ZW",
+    "icaoCode": "AWI"
+    },
+    "flight": {
+    "number": "4814",
+    "iataNumber": "ZW4814",
+    "icaoNumber": "AWI4814"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D1",
+    "scheduledTime": "2018-11-08T20:00:00.000",
+    "estimatedTime": "2018-11-08T20:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "IAD",
+    "icaoCode": "KIAD",
+    "gate": "A2",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T21:01:00.000",
+    "estimatedTime": "2018-11-08T21:01:00.000"
+    },
+    "airline": {
+    "name": "Air Wisconsin",
+    "iataCode": "ZW",
+    "icaoCode": "AWI"
+    },
+    "flight": {
+    "number": "4814",
+    "iataNumber": "ZW4814",
+    "icaoNumber": "AWI4814"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B10",
+    "scheduledTime": "2018-11-08T20:05:00.000",
+    "estimatedTime": "2018-11-08T20:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "IND",
+    "icaoCode": "KIND",
+    "gate": "B6",
+    "baggage": "6",
+    "scheduledTime": "2018-11-08T22:15:00.000",
+    "estimatedTime": "2018-11-08T22:15:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4520",
+    "iataNumber": "AA4520",
+    "icaoNumber": "AAL4520"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4520",
+    "iataNumber": "YX4520",
+    "icaoNumber": "RPA4520"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B10",
+    "scheduledTime": "2018-11-08T20:05:00.000",
+    "estimatedTime": "2018-11-08T20:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "IND",
+    "icaoCode": "KIND",
+    "gate": "B6",
+    "baggage": "6",
+    "scheduledTime": "2018-11-08T22:15:00.000",
+    "estimatedTime": "2018-11-08T22:15:00.000"
+    },
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4520",
+    "iataNumber": "YX4520",
+    "icaoNumber": "RPA4520"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "gate": "E1",
+    "scheduledTime": "2018-11-08T20:09:00.000",
+    "estimatedTime": "2018-11-08T20:09:00.000"
+    },
+    "arrival": {
+    "iataCode": "BOS",
+    "icaoCode": "KBOS",
+    "terminal": "C",
+    "gate": "C27",
+    "scheduledTime": "2018-11-08T21:24:00.000",
+    "estimatedTime": "2018-11-08T21:24:00.000"
+    },
+    "airline": {
+    "name": "JetBlue Airways",
+    "iataCode": "B6",
+    "icaoCode": "JBU"
+    },
+    "flight": {
+    "number": "760",
+    "iataNumber": "B6760",
+    "icaoNumber": "JBU760"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C19",
+    "scheduledTime": "2018-11-08T20:17:00.000",
+    "estimatedTime": "2018-11-08T20:17:00.000"
+    },
+    "arrival": {
+    "iataCode": "LGA",
+    "icaoCode": "KLGA",
+    "terminal": "B",
+    "gate": "D4",
+    "baggage": "A",
+    "scheduledTime": "2018-11-08T21:17:00.000",
+    "estimatedTime": "2018-11-08T21:17:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1655",
+    "iataNumber": "AA1655",
+    "icaoNumber": "AAL1655"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "38",
+    "scheduledTime": "2018-11-08T20:21:00.000"
+    },
+    "arrival": {
+    "iataCode": "SAV",
+    "icaoCode": "KSAV",
+    "scheduledTime": "2018-11-08T22:25:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "5671",
+    "iataNumber": "AA5671",
+    "icaoNumber": "AAL5671"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5671",
+    "iataNumber": "OH5671",
+    "icaoNumber": "JIA5671"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "38",
+    "scheduledTime": "2018-11-08T20:21:00.000"
+    },
+    "arrival": {
+    "iataCode": "SAV",
+    "icaoCode": "KSAV",
+    "scheduledTime": "2018-11-08T22:25:00.000"
+    },
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5671",
+    "iataNumber": "OH5671",
+    "icaoNumber": "JIA5671"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "29",
+    "scheduledTime": "2018-11-08T20:21:00.000"
+    },
+    "arrival": {
+    "iataCode": "YOW",
+    "icaoCode": "CYOW",
+    "gate": "11",
+    "baggage": "1",
+    "scheduledTime": "2018-11-08T22:06:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4971",
+    "iataNumber": "AA4971",
+    "icaoNumber": "AAL4971"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4971",
+    "iataNumber": "PT4971",
+    "icaoNumber": "PDT4971"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "29",
+    "scheduledTime": "2018-11-08T20:21:00.000"
+    },
+    "arrival": {
+    "iataCode": "YOW",
+    "icaoCode": "CYOW",
+    "gate": "11",
+    "baggage": "1",
+    "scheduledTime": "2018-11-08T22:06:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4971",
+    "iataNumber": "PT4971",
+    "icaoNumber": "PDT4971"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C22",
+    "scheduledTime": "2018-11-08T20:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "DFW",
+    "icaoCode": "KDFW",
+    "terminal": "C",
+    "gate": "4",
+    "baggage": "C4",
+    "scheduledTime": "2018-11-08T23:18:00.000"
+    },
+    "airline": {
+    "name": "Malaysia Airlines",
+    "iataCode": "MH",
+    "icaoCode": "MAS"
+    },
+    "flight": {
+    "number": "9386",
+    "iataNumber": "MH9386",
+    "icaoNumber": "MAS9386"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "2057",
+    "iataNumber": "AA2057",
+    "icaoNumber": "AAL2057"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C22",
+    "scheduledTime": "2018-11-08T20:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "DFW",
+    "icaoCode": "KDFW",
+    "terminal": "C",
+    "gate": "4",
+    "baggage": "C4",
+    "scheduledTime": "2018-11-08T23:18:00.000"
+    },
+    "airline": {
+    "name": "Qantas",
+    "iataCode": "QF",
+    "icaoCode": "QFA"
+    },
+    "flight": {
+    "number": "4502",
+    "iataNumber": "QF4502",
+    "icaoNumber": "QFA4502"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "2057",
+    "iataNumber": "AA2057",
+    "icaoNumber": "AAL2057"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C22",
+    "scheduledTime": "2018-11-08T20:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "DFW",
+    "icaoCode": "KDFW",
+    "terminal": "C",
+    "gate": "4",
+    "baggage": "C4",
+    "scheduledTime": "2018-11-08T23:18:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "2057",
+    "iataNumber": "AA2057",
+    "icaoNumber": "AAL2057"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "28",
+    "scheduledTime": "2018-11-08T20:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "CVG",
+    "icaoCode": "KCVG",
+    "terminal": "3",
+    "gate": "B22",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T22:20:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "5300",
+    "iataNumber": "AA5300",
+    "icaoNumber": "AAL5300"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5300",
+    "iataNumber": "OH5300",
+    "icaoNumber": "JIA5300"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "28",
+    "scheduledTime": "2018-11-08T20:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "CVG",
+    "icaoCode": "KCVG",
+    "terminal": "3",
+    "gate": "B22",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T22:20:00.000"
+    },
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5300",
+    "iataNumber": "OH5300",
+    "icaoNumber": "JIA5300"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "3",
+    "scheduledTime": "2018-11-08T20:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "RIC",
+    "icaoCode": "KRIC",
+    "gate": "A8",
+    "scheduledTime": "2018-11-08T21:43:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4919",
+    "iataNumber": "AA4919",
+    "icaoNumber": "AAL4919"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4919",
+    "iataNumber": "PT4919",
+    "icaoNumber": "PDT4919"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "3",
+    "scheduledTime": "2018-11-08T20:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "RIC",
+    "icaoCode": "KRIC",
+    "gate": "A8",
+    "scheduledTime": "2018-11-08T21:43:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4919",
+    "iataNumber": "PT4919",
+    "icaoNumber": "PDT4919"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "27",
+    "scheduledTime": "2018-11-08T20:37:00.000"
+    },
+    "arrival": {
+    "iataCode": "YYZ",
+    "icaoCode": "CYYZ",
+    "terminal": "3",
+    "scheduledTime": "2018-11-08T22:25:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4826",
+    "iataNumber": "AA4826",
+    "icaoNumber": "AAL4826"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4826",
+    "iataNumber": "PT4826",
+    "icaoNumber": "PDT4826"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "27",
+    "scheduledTime": "2018-11-08T20:37:00.000"
+    },
+    "arrival": {
+    "iataCode": "YYZ",
+    "icaoCode": "CYYZ",
+    "terminal": "3",
+    "scheduledTime": "2018-11-08T22:25:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4826",
+    "iataNumber": "PT4826",
+    "icaoNumber": "PDT4826"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "19",
+    "scheduledTime": "2018-11-08T20:39:00.000"
+    },
+    "arrival": {
+    "iataCode": "BHM",
+    "icaoCode": "KBHM",
+    "gate": "A2",
+    "scheduledTime": "2018-11-08T22:09:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "5078",
+    "iataNumber": "AA5078",
+    "icaoNumber": "AAL5078"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5078",
+    "iataNumber": "OH5078",
+    "icaoNumber": "JIA5078"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "19",
+    "scheduledTime": "2018-11-08T20:39:00.000"
+    },
+    "arrival": {
+    "iataCode": "BHM",
+    "icaoCode": "KBHM",
+    "gate": "A2",
+    "scheduledTime": "2018-11-08T22:09:00.000"
+    },
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5078",
+    "iataNumber": "OH5078",
+    "icaoNumber": "JIA5078"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "26",
+    "scheduledTime": "2018-11-08T20:39:00.000"
+    },
+    "arrival": {
+    "iataCode": "PHF",
+    "icaoCode": "KPHF",
+    "gate": "B1",
+    "baggage": "1",
+    "scheduledTime": "2018-11-08T21:54:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4860",
+    "iataNumber": "AA4860",
+    "icaoNumber": "AAL4860"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4860",
+    "iataNumber": "PT4860",
+    "icaoNumber": "PDT4860"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "26",
+    "scheduledTime": "2018-11-08T20:39:00.000"
+    },
+    "arrival": {
+    "iataCode": "PHF",
+    "icaoCode": "KPHF",
+    "gate": "B1",
+    "baggage": "1",
+    "scheduledTime": "2018-11-08T21:54:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4860",
+    "iataNumber": "PT4860",
+    "icaoNumber": "PDT4860"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "23",
+    "scheduledTime": "2018-11-08T20:39:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORF",
+    "icaoCode": "KORF",
+    "gate": "A2",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T21:43:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "5692",
+    "iataNumber": "AA5692",
+    "icaoNumber": "AAL5692"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5692",
+    "iataNumber": "OH5692",
+    "icaoNumber": "JIA5692"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "23",
+    "scheduledTime": "2018-11-08T20:39:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORF",
+    "icaoCode": "KORF",
+    "gate": "A2",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T21:43:00.000"
+    },
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5692",
+    "iataNumber": "OH5692",
+    "icaoNumber": "JIA5692"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C31",
+    "scheduledTime": "2018-11-08T20:40:00.000"
+    },
+    "arrival": {
+    "iataCode": "SAT",
+    "icaoCode": "KSAT",
+    "terminal": "A",
+    "scheduledTime": "2018-11-08T23:57:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1751",
+    "iataNumber": "AA1751",
+    "icaoNumber": "AAL1751"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C27",
+    "scheduledTime": "2018-11-08T20:40:00.000"
+    },
+    "arrival": {
+    "iataCode": "PIT",
+    "icaoCode": "KPIT",
+    "gate": "B34",
+    "baggage": "A",
+    "scheduledTime": "2018-11-08T22:00:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "2460",
+    "iataNumber": "BA2460",
+    "icaoNumber": "BAW2460"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "403",
+    "iataNumber": "AA403",
+    "icaoNumber": "AAL403"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C27",
+    "scheduledTime": "2018-11-08T20:40:00.000"
+    },
+    "arrival": {
+    "iataCode": "PIT",
+    "icaoCode": "KPIT",
+    "gate": "B34",
+    "baggage": "A",
+    "scheduledTime": "2018-11-08T22:00:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "403",
+    "iataNumber": "AA403",
+    "icaoNumber": "AAL403"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B13",
+    "scheduledTime": "2018-11-08T20:40:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "N",
+    "gate": "D23",
+    "baggage": "7",
+    "scheduledTime": "2018-11-08T23:00:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "6902",
+    "iataNumber": "BA6902",
+    "icaoNumber": "BAW6902"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1772",
+    "iataNumber": "AA1772",
+    "icaoNumber": "AAL1772"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B13",
+    "scheduledTime": "2018-11-08T20:40:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "N",
+    "gate": "D23",
+    "baggage": "7",
+    "scheduledTime": "2018-11-08T23:00:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1772",
+    "iataNumber": "AA1772",
+    "icaoNumber": "AAL1772"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "2",
+    "scheduledTime": "2018-11-08T20:43:00.000"
+    },
+    "arrival": {
+    "iataCode": "CMH",
+    "icaoCode": "KCMH",
+    "gate": "B26",
+    "baggage": "5",
+    "scheduledTime": "2018-11-08T22:29:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "4736",
+    "iataNumber": "BA4736",
+    "icaoNumber": "BAW4736"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4452",
+    "iataNumber": "YX4452",
+    "icaoNumber": "RPA4452"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "2",
+    "scheduledTime": "2018-11-08T20:43:00.000"
+    },
+    "arrival": {
+    "iataCode": "CMH",
+    "icaoCode": "KCMH",
+    "gate": "B26",
+    "baggage": "5",
+    "scheduledTime": "2018-11-08T22:29:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4452",
+    "iataNumber": "AA4452",
+    "icaoNumber": "AAL4452"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4452",
+    "iataNumber": "YX4452",
+    "icaoNumber": "RPA4452"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "2",
+    "scheduledTime": "2018-11-08T20:43:00.000"
+    },
+    "arrival": {
+    "iataCode": "CMH",
+    "icaoCode": "KCMH",
+    "gate": "B26",
+    "baggage": "5",
+    "scheduledTime": "2018-11-08T22:29:00.000"
+    },
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4452",
+    "iataNumber": "YX4452",
+    "icaoNumber": "RPA4452"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C18",
+    "scheduledTime": "2018-11-08T20:44:00.000"
+    },
+    "arrival": {
+    "iataCode": "GRR",
+    "icaoCode": "KGRR",
+    "gate": "B2",
+    "baggage": "2",
+    "scheduledTime": "2018-11-08T22:55:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4670",
+    "iataNumber": "AA4670",
+    "icaoNumber": "AAL4670"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4670",
+    "iataNumber": "YX4670",
+    "icaoNumber": "RPA4670"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C18",
+    "scheduledTime": "2018-11-08T20:44:00.000"
+    },
+    "arrival": {
+    "iataCode": "GRR",
+    "icaoCode": "KGRR",
+    "gate": "B2",
+    "baggage": "2",
+    "scheduledTime": "2018-11-08T22:55:00.000"
+    },
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4670",
+    "iataNumber": "YX4670",
+    "icaoNumber": "RPA4670"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C23",
+    "scheduledTime": "2018-11-08T20:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "TPA",
+    "icaoCode": "KTPA",
+    "scheduledTime": "2018-11-08T23:31:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "1746",
+    "iataNumber": "BA1746",
+    "icaoNumber": "BAW1746"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1859",
+    "iataNumber": "AA1859",
+    "icaoNumber": "AAL1859"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C23",
+    "scheduledTime": "2018-11-08T20:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "TPA",
+    "icaoCode": "KTPA",
+    "scheduledTime": "2018-11-08T23:31:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1859",
+    "iataNumber": "AA1859",
+    "icaoNumber": "AAL1859"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "24",
+    "scheduledTime": "2018-11-08T20:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "MDT",
+    "icaoCode": "KMDT",
+    "scheduledTime": "2018-11-08T21:42:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4837",
+    "iataNumber": "AA4837",
+    "icaoNumber": "AAL4837"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4837",
+    "iataNumber": "PT4837",
+    "icaoNumber": "PDT4837"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "24",
+    "scheduledTime": "2018-11-08T20:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "MDT",
+    "icaoCode": "KMDT",
+    "scheduledTime": "2018-11-08T21:42:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4837",
+    "iataNumber": "PT4837",
+    "icaoNumber": "PDT4837"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C24",
+    "scheduledTime": "2018-11-08T20:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "LAX",
+    "icaoCode": "KLAX",
+    "terminal": "5",
+    "gate": "53B",
+    "scheduledTime": "2018-11-08T23:59:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "5317",
+    "iataNumber": "BA5317",
+    "icaoNumber": "BAW5317"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1958",
+    "iataNumber": "AA1958",
+    "icaoNumber": "AAL1958"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C24",
+    "scheduledTime": "2018-11-08T20:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "LAX",
+    "icaoCode": "KLAX",
+    "terminal": "5",
+    "gate": "53B",
+    "scheduledTime": "2018-11-08T23:59:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1958",
+    "iataNumber": "AA1958",
+    "icaoNumber": "AAL1958"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "5",
+    "scheduledTime": "2018-11-08T20:47:00.000"
+    },
+    "arrival": {
+    "iataCode": "ISP",
+    "icaoCode": "KISP",
+    "scheduledTime": "2018-11-08T21:55:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4924",
+    "iataNumber": "AA4924",
+    "icaoNumber": "AAL4924"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4924",
+    "iataNumber": "PT4924",
+    "icaoNumber": "PDT4924"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "5",
+    "scheduledTime": "2018-11-08T20:47:00.000"
+    },
+    "arrival": {
+    "iataCode": "ISP",
+    "icaoCode": "KISP",
+    "scheduledTime": "2018-11-08T21:55:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4924",
+    "iataNumber": "PT4924",
+    "icaoNumber": "PDT4924"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B11",
+    "scheduledTime": "2018-11-08T20:49:00.000"
+    },
+    "arrival": {
+    "iataCode": "MCO",
+    "icaoCode": "KMCO",
+    "terminal": "B",
+    "baggage": "25",
+    "scheduledTime": "2018-11-08T23:30:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "6725",
+    "iataNumber": "BA6725",
+    "icaoNumber": "BAW6725"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1078",
+    "iataNumber": "AA1078",
+    "icaoNumber": "AAL1078"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B11",
+    "scheduledTime": "2018-11-08T20:49:00.000"
+    },
+    "arrival": {
+    "iataCode": "MCO",
+    "icaoCode": "KMCO",
+    "terminal": "B",
+    "baggage": "25",
+    "scheduledTime": "2018-11-08T23:30:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1078",
+    "iataNumber": "AA1078",
+    "icaoNumber": "AAL1078"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "22",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "ITH",
+    "icaoCode": "KITH",
+    "scheduledTime": "2018-11-08T22:02:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4995",
+    "iataNumber": "AA4995",
+    "icaoNumber": "AAL4995"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4995",
+    "iataNumber": "PT4995",
+    "icaoNumber": "PDT4995"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "22",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "ITH",
+    "icaoCode": "KITH",
+    "scheduledTime": "2018-11-08T22:02:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4995",
+    "iataNumber": "PT4995",
+    "icaoNumber": "PDT4995"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D10",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "BOS",
+    "icaoCode": "KBOS",
+    "terminal": "A",
+    "gate": "A3",
+    "baggage": "2",
+    "scheduledTime": "2018-11-08T22:16:00.000"
+    },
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "5465",
+    "iataNumber": "DL5465",
+    "icaoNumber": "DAL5465"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Endeavor Air",
+    "iataCode": "9E",
+    "icaoCode": "EDV"
+    },
+    "flight": {
+    "number": "5465",
+    "iataNumber": "9E5465",
+    "icaoNumber": "EDV5465"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D10",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "BOS",
+    "icaoCode": "KBOS",
+    "terminal": "A",
+    "gate": "A3",
+    "baggage": "2",
+    "scheduledTime": "2018-11-08T22:16:00.000"
+    },
+    "airline": {
+    "name": "Endeavor Air",
+    "iataCode": "9E",
+    "icaoCode": "EDV"
+    },
+    "flight": {
+    "number": "5465",
+    "iataNumber": "9E5465",
+    "icaoNumber": "EDV5465"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "33",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "CHS",
+    "icaoCode": "KCHS",
+    "gate": "B9",
+    "scheduledTime": "2018-11-08T22:55:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4810",
+    "iataNumber": "AA4810",
+    "icaoNumber": "AAL4810"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4810",
+    "iataNumber": "PT4810",
+    "icaoNumber": "PDT4810"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "33",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "CHS",
+    "icaoCode": "KCHS",
+    "gate": "B9",
+    "scheduledTime": "2018-11-08T22:55:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4810",
+    "iataNumber": "PT4810",
+    "icaoNumber": "PDT4810"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B3",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "AUS",
+    "icaoCode": "KAUS",
+    "scheduledTime": "2018-11-08T23:57:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1764",
+    "iataNumber": "AA1764",
+    "icaoNumber": "AAL1764"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "6",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "OMA",
+    "icaoCode": "KOMA",
+    "gate": "A10",
+    "scheduledTime": "2018-11-08T23:13:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4398",
+    "iataNumber": "AA4398",
+    "icaoNumber": "AAL4398"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4398",
+    "iataNumber": "YX4398",
+    "icaoNumber": "RPA4398"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "6",
+    "scheduledTime": "2018-11-08T20:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "OMA",
+    "icaoCode": "KOMA",
+    "gate": "A10",
+    "scheduledTime": "2018-11-08T23:13:00.000"
+    },
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4398",
+    "iataNumber": "YX4398",
+    "icaoNumber": "RPA4398"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "36",
+    "scheduledTime": "2018-11-08T20:54:00.000"
+    },
+    "arrival": {
+    "iataCode": "HVN",
+    "icaoCode": "KHVN",
+    "scheduledTime": "2018-11-08T22:03:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "5262",
+    "iataNumber": "AA5262",
+    "icaoNumber": "AAL5262"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5262",
+    "iataNumber": "OH5262",
+    "icaoNumber": "JIA5262"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "36",
+    "scheduledTime": "2018-11-08T20:54:00.000"
+    },
+    "arrival": {
+    "iataCode": "HVN",
+    "icaoCode": "KHVN",
+    "scheduledTime": "2018-11-08T22:03:00.000"
+    },
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5262",
+    "iataNumber": "OH5262",
+    "icaoNumber": "JIA5262"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "22",
+    "scheduledTime": "2018-11-08T20:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "FLL",
+    "icaoCode": "KFLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-08T23:49:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "5575",
+    "iataNumber": "BA5575",
+    "icaoNumber": "BAW5575"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1864",
+    "iataNumber": "AA1864",
+    "icaoNumber": "AAL1864"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "22",
+    "scheduledTime": "2018-11-08T20:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "FLL",
+    "icaoCode": "KFLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-08T23:49:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1864",
+    "iataNumber": "AA1864",
+    "icaoNumber": "AAL1864"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T20:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "STL",
+    "icaoCode": "KSTL",
+    "terminal": "1",
+    "gate": "C8",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T22:40:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "5176",
+    "iataNumber": "BA5176",
+    "icaoNumber": "BAW5176"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5211",
+    "iataNumber": "OH5211",
+    "icaoNumber": "JIA5211"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T20:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "STL",
+    "icaoCode": "KSTL",
+    "terminal": "1",
+    "gate": "C8",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T22:40:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "5211",
+    "iataNumber": "AA5211",
+    "icaoNumber": "AAL5211"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5211",
+    "iataNumber": "OH5211",
+    "icaoNumber": "JIA5211"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T20:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "STL",
+    "icaoCode": "KSTL",
+    "terminal": "1",
+    "gate": "C8",
+    "baggage": "3",
+    "scheduledTime": "2018-11-08T22:40:00.000"
+    },
+    "airline": {
+    "name": "PSA Airlines",
+    "iataCode": "OH",
+    "icaoCode": "JIA"
+    },
+    "flight": {
+    "number": "5211",
+    "iataNumber": "OH5211",
+    "icaoNumber": "JIA5211"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C25",
+    "scheduledTime": "2018-11-08T20:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "OKC",
+    "icaoCode": "KOKC",
+    "gate": "6",
+    "baggage": "4",
+    "scheduledTime": "2018-11-08T23:45:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4686",
+    "iataNumber": "AA4686",
+    "icaoNumber": "AAL4686"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4686",
+    "iataNumber": "YX4686",
+    "icaoNumber": "RPA4686"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C25",
+    "scheduledTime": "2018-11-08T20:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "OKC",
+    "icaoCode": "KOKC",
+    "gate": "6",
+    "baggage": "4",
+    "scheduledTime": "2018-11-08T23:45:00.000"
+    },
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4686",
+    "iataNumber": "YX4686",
+    "icaoNumber": "RPA4686"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "25",
+    "scheduledTime": "2018-11-08T20:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "LEX",
+    "icaoCode": "KLEX",
+    "gate": "B4",
+    "baggage": "2",
+    "scheduledTime": "2018-11-08T22:58:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4779",
+    "iataNumber": "AA4779",
+    "icaoNumber": "AAL4779"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4779",
+    "iataNumber": "PT4779",
+    "icaoNumber": "PDT4779"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "25",
+    "scheduledTime": "2018-11-08T20:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "LEX",
+    "icaoCode": "KLEX",
+    "gate": "B4",
+    "baggage": "2",
+    "scheduledTime": "2018-11-08T22:58:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4779",
+    "iataNumber": "PT4779",
+    "icaoNumber": "PDT4779"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B1",
+    "scheduledTime": "2018-11-08T20:59:00.000"
+    },
+    "arrival": {
+    "iataCode": "MCI",
+    "icaoCode": "KMCI",
+    "terminal": "C",
+    "gate": "82",
+    "baggage": "C1",
+    "scheduledTime": "2018-11-08T23:15:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "1963",
+    "iataNumber": "BA1963",
+    "icaoNumber": "BAW1963"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1889",
+    "iataNumber": "AA1889",
+    "icaoNumber": "AAL1889"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B1",
+    "scheduledTime": "2018-11-08T20:59:00.000"
+    },
+    "arrival": {
+    "iataCode": "MCI",
+    "icaoCode": "KMCI",
+    "terminal": "C",
+    "gate": "82",
+    "baggage": "C1",
+    "scheduledTime": "2018-11-08T23:15:00.000"
+    },
+    "airline": {
+    "name": "Malaysia Airlines",
+    "iataCode": "MH",
+    "icaoCode": "MAS"
+    },
+    "flight": {
+    "number": "9556",
+    "iataNumber": "MH9556",
+    "icaoNumber": "MAS9556"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1889",
+    "iataNumber": "AA1889",
+    "icaoNumber": "AAL1889"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B1",
+    "scheduledTime": "2018-11-08T20:59:00.000"
+    },
+    "arrival": {
+    "iataCode": "MCI",
+    "icaoCode": "KMCI",
+    "terminal": "C",
+    "gate": "82",
+    "baggage": "C1",
+    "scheduledTime": "2018-11-08T23:15:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1889",
+    "iataNumber": "AA1889",
+    "icaoNumber": "AAL1889"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B9",
+    "scheduledTime": "2018-11-08T21:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "JAX",
+    "icaoCode": "KJAX",
+    "gate": "C9",
+    "baggage": "6",
+    "scheduledTime": "2018-11-08T23:24:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1793",
+    "iataNumber": "AA1793",
+    "icaoNumber": "AAL1793"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "37",
+    "scheduledTime": "2018-11-08T21:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "SWF",
+    "icaoCode": "KSWF",
+    "gate": "6",
+    "baggage": "A",
+    "scheduledTime": "2018-11-08T22:15:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4967",
+    "iataNumber": "AA4967",
+    "icaoNumber": "AAL4967"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4967",
+    "iataNumber": "PT4967",
+    "icaoNumber": "PDT4967"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "37",
+    "scheduledTime": "2018-11-08T21:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "SWF",
+    "icaoCode": "KSWF",
+    "gate": "6",
+    "baggage": "A",
+    "scheduledTime": "2018-11-08T22:15:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4967",
+    "iataNumber": "PT4967",
+    "icaoNumber": "PDT4967"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "3",
+    "scheduledTime": "2018-11-08T21:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "IAH",
+    "icaoCode": "KIAH",
+    "terminal": "A",
+    "scheduledTime": "2018-11-08T23:56:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "6536",
+    "iataNumber": "BA6536",
+    "icaoNumber": "BAW6536"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1892",
+    "iataNumber": "AA1892",
+    "icaoNumber": "AAL1892"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "3",
+    "scheduledTime": "2018-11-08T21:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "IAH",
+    "icaoCode": "KIAH",
+    "terminal": "A",
+    "scheduledTime": "2018-11-08T23:56:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1892",
+    "iataNumber": "AA1892",
+    "icaoNumber": "AAL1892"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B14",
+    "scheduledTime": "2018-11-08T21:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "BGR",
+    "icaoCode": "KBGR",
+    "scheduledTime": "2018-11-08T22:45:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4613",
+    "iataNumber": "AA4613",
+    "icaoNumber": "AAL4613"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4613",
+    "iataNumber": "YX4613",
+    "icaoNumber": "RPA4613"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B14",
+    "scheduledTime": "2018-11-08T21:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "BGR",
+    "icaoCode": "KBGR",
+    "scheduledTime": "2018-11-08T22:45:00.000"
+    },
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4613",
+    "iataNumber": "YX4613",
+    "icaoNumber": "RPA4613"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B5",
+    "scheduledTime": "2018-11-08T21:04:00.000"
+    },
+    "arrival": {
+    "iataCode": "BNA",
+    "icaoCode": "KBNA",
+    "scheduledTime": "2018-11-08T22:29:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1640",
+    "iataNumber": "AA1640",
+    "icaoNumber": "AAL1640"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B8",
+    "scheduledTime": "2018-11-08T21:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "CLE",
+    "icaoCode": "KCLE",
+    "gate": "C11",
+    "baggage": "8",
+    "scheduledTime": "2018-11-08T22:46:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1987",
+    "iataNumber": "AA1987",
+    "icaoNumber": "AAL1987"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "12",
+    "scheduledTime": "2018-11-08T21:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "DUB",
+    "icaoCode": "EIDW",
+    "terminal": "2",
+    "scheduledTime": "2018-11-09T08:40:00.000"
+    },
+    "airline": {
+    "name": "Finnair",
+    "iataCode": "AY",
+    "icaoCode": "FIN"
+    },
+    "flight": {
+    "number": "5663",
+    "iataNumber": "AY5663",
+    "icaoNumber": "FIN5663"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "722",
+    "iataNumber": "AA722",
+    "icaoNumber": "AAL722"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "12",
+    "scheduledTime": "2018-11-08T21:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "DUB",
+    "icaoCode": "EIDW",
+    "terminal": "2",
+    "scheduledTime": "2018-11-09T08:40:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "1579",
+    "iataNumber": "BA1579",
+    "icaoNumber": "BAW1579"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "722",
+    "iataNumber": "AA722",
+    "icaoNumber": "AAL722"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "12",
+    "scheduledTime": "2018-11-08T21:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "DUB",
+    "icaoCode": "EIDW",
+    "terminal": "2",
+    "scheduledTime": "2018-11-09T08:40:00.000"
+    },
+    "airline": {
+    "name": "Iberia",
+    "iataCode": "IB",
+    "icaoCode": "IBE"
+    },
+    "flight": {
+    "number": "4661",
+    "iataNumber": "IB4661",
+    "icaoNumber": "IBE4661"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "722",
+    "iataNumber": "AA722",
+    "icaoNumber": "AAL722"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "12",
+    "scheduledTime": "2018-11-08T21:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "DUB",
+    "icaoCode": "EIDW",
+    "terminal": "2",
+    "scheduledTime": "2018-11-09T08:40:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "722",
+    "iataNumber": "AA722",
+    "icaoNumber": "AAL722"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "35",
+    "scheduledTime": "2018-11-08T21:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "ILM",
+    "icaoCode": "KILM",
+    "scheduledTime": "2018-11-08T22:47:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4804",
+    "iataNumber": "AA4804",
+    "icaoNumber": "AAL4804"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4804",
+    "iataNumber": "PT4804",
+    "icaoNumber": "PDT4804"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "35",
+    "scheduledTime": "2018-11-08T21:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "ILM",
+    "icaoCode": "KILM",
+    "scheduledTime": "2018-11-08T22:47:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4804",
+    "iataNumber": "PT4804",
+    "icaoNumber": "PDT4804"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B15",
+    "scheduledTime": "2018-11-08T21:07:00.000"
+    },
+    "arrival": {
+    "iataCode": "DCA",
+    "icaoCode": "KDCA",
+    "terminal": "C",
+    "gate": "45",
+    "baggage": "12",
+    "scheduledTime": "2018-11-08T22:18:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "5767",
+    "iataNumber": "BA5767",
+    "icaoNumber": "BAW5767"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1825",
+    "iataNumber": "AA1825",
+    "icaoNumber": "AAL1825"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B15",
+    "scheduledTime": "2018-11-08T21:07:00.000"
+    },
+    "arrival": {
+    "iataCode": "DCA",
+    "icaoCode": "KDCA",
+    "terminal": "C",
+    "gate": "45",
+    "baggage": "12",
+    "scheduledTime": "2018-11-08T22:18:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1825",
+    "iataNumber": "AA1825",
+    "icaoNumber": "AAL1825"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C21",
+    "scheduledTime": "2018-11-08T21:09:00.000"
+    },
+    "arrival": {
+    "iataCode": "PVD",
+    "icaoCode": "KPVD",
+    "gate": "2",
+    "baggage": "1",
+    "scheduledTime": "2018-11-08T22:26:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "713",
+    "iataNumber": "AA713",
+    "icaoNumber": "AAL713"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "14",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "BUF",
+    "icaoCode": "KBUF",
+    "scheduledTime": "2018-11-08T22:38:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4522",
+    "iataNumber": "AA4522",
+    "icaoNumber": "AAL4522"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4522",
+    "iataNumber": "YX4522",
+    "icaoNumber": "RPA4522"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "14",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "BUF",
+    "icaoCode": "KBUF",
+    "scheduledTime": "2018-11-08T22:38:00.000"
+    },
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4522",
+    "iataNumber": "YX4522",
+    "icaoNumber": "RPA4522"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C28",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "LAS",
+    "icaoCode": "KLAS",
+    "terminal": "1",
+    "gate": "D9",
+    "scheduledTime": "2018-11-08T23:48:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "6599",
+    "iataNumber": "BA6599",
+    "icaoNumber": "BAW6599"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "661",
+    "iataNumber": "AA661",
+    "icaoNumber": "AAL661"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C28",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "LAS",
+    "icaoCode": "KLAS",
+    "terminal": "1",
+    "gate": "D9",
+    "scheduledTime": "2018-11-08T23:48:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "661",
+    "iataNumber": "AA661",
+    "icaoNumber": "AAL661"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "13",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "PWM",
+    "icaoCode": "KPWM",
+    "gate": "11",
+    "scheduledTime": "2018-11-08T22:43:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4791",
+    "iataNumber": "AA4791",
+    "icaoNumber": "AAL4791"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4791",
+    "iataNumber": "PT4791",
+    "icaoNumber": "PDT4791"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "13",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "PWM",
+    "icaoCode": "KPWM",
+    "gate": "11",
+    "scheduledTime": "2018-11-08T22:43:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4791",
+    "iataNumber": "PT4791",
+    "icaoNumber": "PDT4791"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "5",
+    "scheduledTime": "2018-11-09T09:10:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "6129",
+    "iataNumber": "AA6129",
+    "icaoNumber": "AAL6129"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "66",
+    "iataNumber": "BA66",
+    "icaoNumber": "BAW66"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "5",
+    "scheduledTime": "2018-11-09T09:10:00.000"
+    },
+    "airline": {
+    "name": "Finnair",
+    "iataCode": "AY",
+    "icaoCode": "FIN"
+    },
+    "flight": {
+    "number": "5466",
+    "iataNumber": "AY5466",
+    "icaoNumber": "FIN5466"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "66",
+    "iataNumber": "BA66",
+    "icaoNumber": "BAW66"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "5",
+    "scheduledTime": "2018-11-09T09:10:00.000"
+    },
+    "airline": {
+    "name": "Aer Lingus",
+    "iataCode": "EI",
+    "icaoCode": "EIN"
+    },
+    "flight": {
+    "number": "8766",
+    "iataNumber": "EI8766",
+    "icaoNumber": "EIN8766"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "66",
+    "iataNumber": "BA66",
+    "icaoNumber": "BAW66"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "5",
+    "scheduledTime": "2018-11-09T09:10:00.000"
+    },
+    "airline": {
+    "name": "Iberia",
+    "iataCode": "IB",
+    "icaoCode": "IBE"
+    },
+    "flight": {
+    "number": "7324",
+    "iataNumber": "IB7324",
+    "icaoNumber": "IBE7324"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "66",
+    "iataNumber": "BA66",
+    "icaoNumber": "BAW66"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "scheduledTime": "2018-11-08T21:10:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "5",
+    "scheduledTime": "2018-11-09T09:10:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "66",
+    "iataNumber": "BA66",
+    "icaoNumber": "BAW66"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B4",
+    "scheduledTime": "2018-11-08T21:14:00.000"
+    },
+    "arrival": {
+    "iataCode": "MEM",
+    "icaoCode": "KMEM",
+    "terminal": "C",
+    "gate": "C8",
+    "baggage": "9C",
+    "scheduledTime": "2018-11-08T23:13:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4477",
+    "iataNumber": "AA4477",
+    "icaoNumber": "AAL4477"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4477",
+    "iataNumber": "YX4477",
+    "icaoNumber": "RPA4477"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B4",
+    "scheduledTime": "2018-11-08T21:14:00.000"
+    },
+    "arrival": {
+    "iataCode": "MEM",
+    "icaoCode": "KMEM",
+    "terminal": "C",
+    "gate": "C8",
+    "baggage": "9C",
+    "scheduledTime": "2018-11-08T23:13:00.000"
+    },
+    "airline": {
+    "name": "Republic Airlines",
+    "iataCode": "YX",
+    "icaoCode": "RPA"
+    },
+    "flight": {
+    "number": "4477",
+    "iataNumber": "YX4477",
+    "icaoNumber": "RPA4477"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-08T21:15:00.000"
+    },
+    "arrival": {
+    "iataCode": "DEN",
+    "icaoCode": "KDEN",
+    "scheduledTime": "2018-11-08T23:44:00.000"
+    },
+    "airline": {
+    "name": "Frontier Airlines",
+    "iataCode": "F9",
+    "icaoCode": "FFT"
+    },
+    "flight": {
+    "number": "173",
+    "iataNumber": "F9173",
+    "icaoNumber": "FFT173"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "7",
+    "scheduledTime": "2018-11-08T21:15:00.000"
+    },
+    "arrival": {
+    "iataCode": "AVP",
+    "icaoCode": "KAVP",
+    "scheduledTime": "2018-11-08T22:18:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4790",
+    "iataNumber": "AA4790",
+    "icaoNumber": "AAL4790"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4790",
+    "iataNumber": "PT4790",
+    "icaoNumber": "PDT4790"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "7",
+    "scheduledTime": "2018-11-08T21:15:00.000"
+    },
+    "arrival": {
+    "iataCode": "AVP",
+    "icaoCode": "KAVP",
+    "scheduledTime": "2018-11-08T22:18:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4790",
+    "iataNumber": "PT4790",
+    "icaoNumber": "PDT4790"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "18",
+    "scheduledTime": "2018-11-08T21:19:00.000"
+    },
+    "arrival": {
+    "iataCode": "ERI",
+    "icaoCode": "KERI",
+    "scheduledTime": "2018-11-08T22:49:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4857",
+    "iataNumber": "AA4857",
+    "icaoNumber": "AAL4857"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4857",
+    "iataNumber": "PT4857",
+    "icaoNumber": "PDT4857"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "18",
+    "scheduledTime": "2018-11-08T21:19:00.000"
+    },
+    "arrival": {
+    "iataCode": "ERI",
+    "icaoCode": "KERI",
+    "scheduledTime": "2018-11-08T22:49:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4857",
+    "iataNumber": "PT4857",
+    "icaoNumber": "PDT4857"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "25",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "MAN",
+    "icaoCode": "EGCC",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:00:00.000"
+    },
+    "airline": {
+    "name": "Finnair",
+    "iataCode": "AY",
+    "icaoCode": "FIN"
+    },
+    "flight": {
+    "number": "5677",
+    "iataNumber": "AY5677",
+    "icaoNumber": "FIN5677"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "734",
+    "iataNumber": "AA734",
+    "icaoNumber": "AAL734"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "25",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "MAN",
+    "icaoCode": "EGCC",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:00:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "1599",
+    "iataNumber": "BA1599",
+    "icaoNumber": "BAW1599"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "734",
+    "iataNumber": "AA734",
+    "icaoNumber": "AAL734"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "25",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "MAN",
+    "icaoCode": "EGCC",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:00:00.000"
+    },
+    "airline": {
+    "name": "Iberia",
+    "iataCode": "IB",
+    "icaoCode": "IBE"
+    },
+    "flight": {
+    "number": "4670",
+    "iataNumber": "IB4670",
+    "icaoNumber": "IBE4670"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "734",
+    "iataNumber": "AA734",
+    "icaoNumber": "AAL734"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "25",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "MAN",
+    "icaoCode": "EGCC",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:00:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "734",
+    "iataNumber": "AA734",
+    "icaoNumber": "AAL734"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "gate": "E8",
+    "scheduledTime": "2018-11-08T21:20:00.000",
+    "estimatedTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "SJU",
+    "icaoCode": "TJSJ",
+    "scheduledTime": "2018-11-09T02:18:00.000",
+    "estimatedTime": "2018-11-09T02:18:00.000"
+    },
+    "airline": {
+    "name": "Frontier Airlines",
+    "iataCode": "F9",
+    "icaoCode": "FFT"
+    },
+    "flight": {
+    "number": "1042",
+    "iataNumber": "F91042",
+    "icaoNumber": "FFT1042"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "39",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "SYR",
+    "icaoCode": "KSYR",
+    "terminal": "A",
+    "gate": "9",
+    "scheduledTime": "2018-11-08T22:41:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "5012",
+    "iataNumber": "AA5012",
+    "icaoNumber": "AAL5012"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "5012",
+    "iataNumber": "PT5012",
+    "icaoNumber": "PDT5012"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "39",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "SYR",
+    "icaoCode": "KSYR",
+    "terminal": "A",
+    "gate": "9",
+    "scheduledTime": "2018-11-08T22:41:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "5012",
+    "iataNumber": "PT5012",
+    "icaoNumber": "PDT5012"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "9",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "AMS",
+    "icaoCode": "EHAM",
+    "scheduledTime": "2018-11-09T10:55:00.000"
+    },
+    "airline": {
+    "name": "Finnair",
+    "iataCode": "AY",
+    "icaoCode": "FIN"
+    },
+    "flight": {
+    "number": "5715",
+    "iataNumber": "AY5715",
+    "icaoNumber": "FIN5715"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "204",
+    "iataNumber": "AA204",
+    "icaoNumber": "AAL204"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "9",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "AMS",
+    "icaoCode": "EHAM",
+    "scheduledTime": "2018-11-09T10:55:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "1625",
+    "iataNumber": "BA1625",
+    "icaoNumber": "BAW1625"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "204",
+    "iataNumber": "AA204",
+    "icaoNumber": "AAL204"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "9",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "AMS",
+    "icaoCode": "EHAM",
+    "scheduledTime": "2018-11-09T10:55:00.000"
+    },
+    "airline": {
+    "name": "Iberia",
+    "iataCode": "IB",
+    "icaoCode": "IBE"
+    },
+    "flight": {
+    "number": "4621",
+    "iataNumber": "IB4621",
+    "icaoNumber": "IBE4621"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "204",
+    "iataNumber": "AA204",
+    "icaoNumber": "AAL204"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "9",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "AMS",
+    "icaoCode": "EHAM",
+    "scheduledTime": "2018-11-09T10:55:00.000"
+    },
+    "airline": {
+    "name": "El Al",
+    "iataCode": "LY",
+    "icaoCode": "ELY"
+    },
+    "flight": {
+    "number": "8166",
+    "iataNumber": "LY8166",
+    "icaoNumber": "ELY8166"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "204",
+    "iataNumber": "AA204",
+    "icaoNumber": "AAL204"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "9",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "AMS",
+    "icaoCode": "EHAM",
+    "scheduledTime": "2018-11-09T10:55:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "204",
+    "iataNumber": "AA204",
+    "icaoNumber": "AAL204"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:40:00.000"
+    },
+    "airline": {
+    "name": "Finnair",
+    "iataCode": "AY",
+    "icaoCode": "FIN"
+    },
+    "flight": {
+    "number": "5667",
+    "iataNumber": "AY5667",
+    "icaoNumber": "FIN5667"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "728",
+    "iataNumber": "AA728",
+    "icaoNumber": "AAL728"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:40:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "1587",
+    "iataNumber": "BA1587",
+    "icaoNumber": "BAW1587"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "728",
+    "iataNumber": "AA728",
+    "icaoNumber": "AAL728"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:40:00.000"
+    },
+    "airline": {
+    "name": "Iberia",
+    "iataCode": "IB",
+    "icaoCode": "IBE"
+    },
+    "flight": {
+    "number": "4664",
+    "iataNumber": "IB4664",
+    "icaoNumber": "IBE4664"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "728",
+    "iataNumber": "AA728",
+    "icaoNumber": "AAL728"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:40:00.000"
+    },
+    "airline": {
+    "name": "El Al",
+    "iataCode": "LY",
+    "icaoCode": "ELY"
+    },
+    "flight": {
+    "number": "8183",
+    "iataNumber": "LY8183",
+    "icaoNumber": "ELY8183"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "728",
+    "iataNumber": "AA728",
+    "icaoNumber": "AAL728"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:40:00.000"
+    },
+    "airline": {
+    "name": "Malaysia Airlines",
+    "iataCode": "MH",
+    "icaoCode": "MAS"
+    },
+    "flight": {
+    "number": "9529",
+    "iataNumber": "MH9529",
+    "icaoNumber": "MAS9529"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "728",
+    "iataNumber": "AA728",
+    "icaoNumber": "AAL728"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "21",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:40:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "728",
+    "iataNumber": "AA728",
+    "icaoNumber": "AAL728"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B2",
+    "scheduledTime": "2018-11-08T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "MHT",
+    "icaoCode": "KMHT",
+    "gate": "9",
+    "baggage": "B",
+    "scheduledTime": "2018-11-08T22:47:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1769",
+    "iataNumber": "AA1769",
+    "icaoNumber": "AAL1769"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "20",
+    "scheduledTime": "2018-11-08T21:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "MKE",
+    "icaoCode": "KMKE",
+    "gate": "D52",
+    "baggage": "5",
+    "scheduledTime": "2018-11-08T22:57:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4858",
+    "iataNumber": "AA4858",
+    "icaoNumber": "AAL4858"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4858",
+    "iataNumber": "PT4858",
+    "icaoNumber": "PDT4858"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "20",
+    "scheduledTime": "2018-11-08T21:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "MKE",
+    "icaoCode": "KMKE",
+    "gate": "D52",
+    "baggage": "5",
+    "scheduledTime": "2018-11-08T22:57:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4858",
+    "iataNumber": "PT4858",
+    "icaoNumber": "PDT4858"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C26",
+    "scheduledTime": "2018-11-08T21:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "MSY",
+    "icaoCode": "KMSY",
+    "gate": "C11",
+    "scheduledTime": "2018-11-08T23:40:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1705",
+    "iataNumber": "AA1705",
+    "icaoNumber": "AAL1705"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C30",
+    "scheduledTime": "2018-11-08T21:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "3",
+    "gate": "H6",
+    "baggage": "4",
+    "scheduledTime": "2018-11-08T22:56:00.000"
+    },
+    "airline": {
+    "name": "Alaska Airlines",
+    "iataCode": "AS",
+    "icaoCode": "ASA"
+    },
+    "flight": {
+    "number": "6790",
+    "iataNumber": "AS6790",
+    "icaoNumber": "ASA6790"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1680",
+    "iataNumber": "AA1680",
+    "icaoNumber": "AAL1680"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C30",
+    "scheduledTime": "2018-11-08T21:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "3",
+    "gate": "H6",
+    "baggage": "4",
+    "scheduledTime": "2018-11-08T22:56:00.000"
+    },
+    "airline": {
+    "name": "Malaysia Airlines",
+    "iataCode": "MH",
+    "icaoCode": "MAS"
+    },
+    "flight": {
+    "number": "9627",
+    "iataNumber": "MH9627",
+    "icaoNumber": "MAS9627"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1680",
+    "iataNumber": "AA1680",
+    "icaoNumber": "AAL1680"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C30",
+    "scheduledTime": "2018-11-08T21:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "3",
+    "gate": "H6",
+    "baggage": "4",
+    "scheduledTime": "2018-11-08T22:56:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1680",
+    "iataNumber": "AA1680",
+    "icaoNumber": "AAL1680"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "10",
+    "scheduledTime": "2018-11-08T21:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "BOS",
+    "icaoCode": "KBOS",
+    "terminal": "B",
+    "gate": "B14",
+    "scheduledTime": "2018-11-08T22:52:00.000"
+    },
+    "airline": {
+    "name": "Malaysia Airlines",
+    "iataCode": "MH",
+    "icaoCode": "MAS"
+    },
+    "flight": {
+    "number": "9374",
+    "iataNumber": "MH9374",
+    "icaoNumber": "MAS9374"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1874",
+    "iataNumber": "AA1874",
+    "icaoNumber": "AAL1874"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "10",
+    "scheduledTime": "2018-11-08T21:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "BOS",
+    "icaoCode": "KBOS",
+    "terminal": "B",
+    "gate": "B14",
+    "scheduledTime": "2018-11-08T22:52:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1874",
+    "iataNumber": "AA1874",
+    "icaoNumber": "AAL1874"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B10",
+    "scheduledTime": "2018-11-08T21:27:00.000"
+    },
+    "arrival": {
+    "iataCode": "BTV",
+    "icaoCode": "KBTV",
+    "scheduledTime": "2018-11-08T22:59:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "865",
+    "iataNumber": "AA865",
+    "icaoNumber": "AAL865"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C20",
+    "scheduledTime": "2018-11-08T21:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "RDU",
+    "icaoCode": "KRDU",
+    "terminal": "2",
+    "gate": "C9",
+    "baggage": "5",
+    "scheduledTime": "2018-11-08T23:03:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "2526",
+    "iataNumber": "BA2526",
+    "icaoNumber": "BAW2526"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1747",
+    "iataNumber": "AA1747",
+    "icaoNumber": "AAL1747"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C20",
+    "scheduledTime": "2018-11-08T21:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "RDU",
+    "icaoCode": "KRDU",
+    "terminal": "2",
+    "gate": "C9",
+    "baggage": "5",
+    "scheduledTime": "2018-11-08T23:03:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1747",
+    "iataNumber": "AA1747",
+    "icaoNumber": "AAL1747"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "17",
+    "scheduledTime": "2018-11-08T21:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "SCE",
+    "icaoCode": "KUNV",
+    "gate": "A0",
+    "scheduledTime": "2018-11-08T22:41:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4948",
+    "iataNumber": "AA4948",
+    "icaoNumber": "AAL4948"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4948",
+    "iataNumber": "PT4948",
+    "icaoNumber": "PDT4948"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "17",
+    "scheduledTime": "2018-11-08T21:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "SCE",
+    "icaoCode": "KUNV",
+    "gate": "A0",
+    "scheduledTime": "2018-11-08T22:41:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4948",
+    "iataNumber": "PT4948",
+    "icaoNumber": "PDT4948"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "15",
+    "scheduledTime": "2018-11-08T21:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORH",
+    "icaoCode": "KORH",
+    "scheduledTime": "2018-11-08T22:53:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4859",
+    "iataNumber": "AA4859",
+    "icaoNumber": "AAL4859"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4859",
+    "iataNumber": "PT4859",
+    "icaoNumber": "PDT4859"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "15",
+    "scheduledTime": "2018-11-08T21:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORH",
+    "icaoCode": "KORH",
+    "scheduledTime": "2018-11-08T22:53:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4859",
+    "iataNumber": "PT4859",
+    "icaoNumber": "PDT4859"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B7",
+    "scheduledTime": "2018-11-08T21:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "DTW",
+    "icaoCode": "KDTW",
+    "terminal": "N",
+    "scheduledTime": "2018-11-08T23:32:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "551",
+    "iataNumber": "AA551",
+    "icaoNumber": "AAL551"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B6",
+    "scheduledTime": "2018-11-08T21:35:00.000"
+    },
+    "arrival": {
+    "iataCode": "BDL",
+    "icaoCode": "KBDL",
+    "terminal": "A",
+    "gate": "25",
+    "scheduledTime": "2018-11-08T22:48:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "2110",
+    "iataNumber": "AA2110",
+    "icaoNumber": "AAL2110"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "9",
+    "scheduledTime": "2018-11-08T21:35:00.000"
+    },
+    "arrival": {
+    "iataCode": "IPT",
+    "icaoCode": "KIPT",
+    "scheduledTime": "2018-11-08T22:43:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4949",
+    "iataNumber": "AA4949",
+    "icaoNumber": "AAL4949"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4949",
+    "iataNumber": "PT4949",
+    "icaoNumber": "PDT4949"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "9",
+    "scheduledTime": "2018-11-08T21:35:00.000"
+    },
+    "arrival": {
+    "iataCode": "IPT",
+    "icaoCode": "KIPT",
+    "scheduledTime": "2018-11-08T22:43:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4949",
+    "iataNumber": "PT4949",
+    "icaoNumber": "PDT4949"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "31",
+    "scheduledTime": "2018-11-08T21:40:00.000"
+    },
+    "arrival": {
+    "iataCode": "ABE",
+    "icaoCode": "KABE",
+    "gate": "12",
+    "scheduledTime": "2018-11-08T22:32:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "4966",
+    "iataNumber": "AA4966",
+    "icaoNumber": "AAL4966"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4966",
+    "iataNumber": "PT4966",
+    "icaoNumber": "PDT4966"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "31",
+    "scheduledTime": "2018-11-08T21:40:00.000"
+    },
+    "arrival": {
+    "iataCode": "ABE",
+    "icaoCode": "KABE",
+    "gate": "12",
+    "scheduledTime": "2018-11-08T22:32:00.000"
+    },
+    "airline": {
+    "name": "Piedmont Airlines",
+    "iataCode": "PT",
+    "icaoCode": "PDT"
+    },
+    "flight": {
+    "number": "4966",
+    "iataNumber": "PT4966",
+    "icaoNumber": "PDT4966"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "gate": "E11",
+    "scheduledTime": "2018-11-08T21:55:00.000",
+    "estimatedTime": "2018-11-08T21:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "MDW",
+    "icaoCode": "KMDW",
+    "gate": "B12",
+    "scheduledTime": "2018-11-08T23:05:00.000",
+    "estimatedTime": "2018-11-08T23:05:00.000"
+    },
+    "airline": {
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "icaoCode": "SWA"
+    },
+    "flight": {
+    "number": "815",
+    "iataNumber": "WN815",
+    "icaoNumber": "SWA815"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "scheduledTime": "2018-11-08T22:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "SWF",
+    "icaoCode": "KSWF"
+    },
+    "airline": {
+    "name": "NetJets Aviation",
+    "iataCode": "1I",
+    "icaoCode": "EJA"
+    },
+    "flight": {
+    "number": "550",
+    "iataNumber": "1I550",
+    "icaoNumber": "EJA550"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B14",
+    "scheduledTime": "2018-11-09T05:00:00.000",
+    "estimatedTime": "2018-11-09T05:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "3",
+    "gate": "K13",
+    "baggage": "-",
+    "scheduledTime": "2018-11-09T06:21:00.000",
+    "estimatedTime": "2018-11-09T06:21:00.000"
+    },
+    "airline": {
+    "name": "Alaska Airlines",
+    "iataCode": "AS",
+    "icaoCode": "ASA"
+    },
+    "flight": {
+    "number": "6901",
+    "iataNumber": "AS6901",
+    "icaoNumber": "ASA6901"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "2324",
+    "iataNumber": "AA2324",
+    "icaoNumber": "AAL2324"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B14",
+    "scheduledTime": "2018-11-09T05:00:00.000",
+    "estimatedTime": "2018-11-09T05:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "3",
+    "gate": "K13",
+    "baggage": "-",
+    "scheduledTime": "2018-11-09T06:21:00.000",
+    "estimatedTime": "2018-11-09T06:21:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "2324",
+    "iataNumber": "AA2324",
+    "icaoNumber": "AAL2324"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C21",
+    "scheduledTime": "2018-11-09T05:00:00.000",
+    "estimatedTime": "2018-11-09T05:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "CLT",
+    "icaoCode": "KCLT",
+    "gate": "B13",
+    "scheduledTime": "2018-11-09T06:42:00.000",
+    "estimatedTime": "2018-11-09T06:42:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "1678",
+    "iataNumber": "BA1678",
+    "icaoNumber": "BAW1678"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1809",
+    "iataNumber": "AA1809",
+    "icaoNumber": "AAL1809"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C21",
+    "scheduledTime": "2018-11-09T05:00:00.000",
+    "estimatedTime": "2018-11-09T05:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "CLT",
+    "icaoCode": "KCLT",
+    "gate": "B13",
+    "scheduledTime": "2018-11-09T06:42:00.000",
+    "estimatedTime": "2018-11-09T06:42:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1809",
+    "iataNumber": "AA1809",
+    "icaoNumber": "AAL1809"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B2",
+    "scheduledTime": "2018-11-09T05:20:00.000",
+    "estimatedTime": "2018-11-09T05:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "DFW",
+    "icaoCode": "KDFW",
+    "terminal": "A",
+    "gate": "A13",
+    "baggage": "A16",
+    "scheduledTime": "2018-11-09T08:11:00.000",
+    "estimatedTime": "2018-11-09T08:11:00.000"
+    },
+    "airline": {
+    "name": "Qantas",
+    "iataCode": "QF",
+    "icaoCode": "QFA"
+    },
+    "flight": {
+    "number": "3331",
+    "iataNumber": "QF3331",
+    "icaoNumber": "QFA3331"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1602",
+    "iataNumber": "AA1602",
+    "icaoNumber": "AAL1602"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B2",
+    "scheduledTime": "2018-11-09T05:20:00.000",
+    "estimatedTime": "2018-11-09T05:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "DFW",
+    "icaoCode": "KDFW",
+    "terminal": "A",
+    "gate": "A13",
+    "baggage": "A16",
+    "scheduledTime": "2018-11-09T08:11:00.000",
+    "estimatedTime": "2018-11-09T08:11:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1602",
+    "iataNumber": "AA1602",
+    "icaoNumber": "AAL1602"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "5",
+    "scheduledTime": "2018-11-09T05:34:00.000",
+    "estimatedTime": "2018-11-09T05:34:00.000"
+    },
+    "arrival": {
+    "iataCode": "LGA",
+    "icaoCode": "KLGA",
+    "terminal": "B",
+    "scheduledTime": "2018-11-09T06:24:00.000",
+    "estimatedTime": "2018-11-09T06:24:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "3790",
+    "iataNumber": "AA3790",
+    "icaoNumber": "AAL3790"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Envoy Air",
+    "iataCode": "MQ",
+    "icaoCode": "ENY"
+    },
+    "flight": {
+    "number": "3790",
+    "iataNumber": "MQ3790",
+    "icaoNumber": "ENY3790"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "F",
+    "gate": "5",
+    "scheduledTime": "2018-11-09T05:34:00.000",
+    "estimatedTime": "2018-11-09T05:34:00.000"
+    },
+    "arrival": {
+    "iataCode": "LGA",
+    "icaoCode": "KLGA",
+    "terminal": "B",
+    "scheduledTime": "2018-11-09T06:24:00.000",
+    "estimatedTime": "2018-11-09T06:24:00.000"
+    },
+    "airline": {
+    "name": "Envoy Air",
+    "iataCode": "MQ",
+    "icaoCode": "ENY"
+    },
+    "flight": {
+    "number": "3790",
+    "iataNumber": "MQ3790",
+    "icaoNumber": "ENY3790"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D11",
+    "scheduledTime": "2018-11-09T05:35:00.000",
+    "estimatedTime": "2018-11-09T05:35:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "1",
+    "gate": "B11",
+    "scheduledTime": "2018-11-09T06:50:00.000",
+    "estimatedTime": "2018-11-09T06:50:00.000"
+    },
+    "airline": {
+    "name": "ANA",
+    "iataCode": "NH",
+    "icaoCode": "ANA"
+    },
+    "flight": {
+    "number": "7459",
+    "iataNumber": "NH7459",
+    "icaoNumber": "ANA7459"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "United Airlines",
+    "iataCode": "UA",
+    "icaoCode": "UAL"
+    },
+    "flight": {
+    "number": "1631",
+    "iataNumber": "UA1631",
+    "icaoNumber": "UAL1631"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D11",
+    "scheduledTime": "2018-11-09T05:35:00.000",
+    "estimatedTime": "2018-11-09T05:35:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "1",
+    "gate": "B11",
+    "scheduledTime": "2018-11-09T06:50:00.000",
+    "estimatedTime": "2018-11-09T06:50:00.000"
+    },
+    "airline": {
+    "name": "United Airlines",
+    "iataCode": "UA",
+    "icaoCode": "UAL"
+    },
+    "flight": {
+    "number": "1631",
+    "iataNumber": "UA1631",
+    "icaoNumber": "UAL1631"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-09T05:40:00.000"
+    },
+    "arrival": {
+    "iataCode": "BNA",
+    "icaoCode": "KBNA",
+    "scheduledTime": "2018-11-09T06:50:00.000"
+    },
+    "airline": {
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "icaoCode": "SWA"
+    },
+    "flight": {
+    "number": "1737",
+    "iataNumber": "WN1737",
+    "icaoNumber": "SWA1737"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-09T05:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "BOS",
+    "icaoCode": "KBOS",
+    "terminal": "C",
+    "scheduledTime": "2018-11-09T07:00:00.000"
+    },
+    "airline": {
+    "name": "JetBlue Airways",
+    "iataCode": "B6",
+    "icaoCode": "JBU"
+    },
+    "flight": {
+    "number": "860",
+    "iataNumber": "B6860",
+    "icaoNumber": "JBU860"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-09T05:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "MDW",
+    "icaoCode": "KMDW",
+    "scheduledTime": "2018-11-09T07:00:00.000"
+    },
+    "airline": {
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "icaoCode": "SWA"
+    },
+    "flight": {
+    "number": "1146",
+    "iataNumber": "WN1146",
+    "icaoNumber": "SWA1146"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D14",
+    "scheduledTime": "2018-11-09T05:58:00.000"
+    },
+    "arrival": {
+    "iataCode": "DTW",
+    "icaoCode": "KDTW",
+    "terminal": "M",
+    "gate": "A23",
+    "scheduledTime": "2018-11-09T07:52:00.000"
+    },
+    "airline": {
+    "name": "Aeromexico",
+    "iataCode": "AM",
+    "icaoCode": "AMX"
+    },
+    "flight": {
+    "number": "4677",
+    "iataNumber": "AM4677",
+    "icaoNumber": "AMX4677"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2701",
+    "iataNumber": "DL2701",
+    "icaoNumber": "DAL2701"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D14",
+    "scheduledTime": "2018-11-09T05:58:00.000"
+    },
+    "arrival": {
+    "iataCode": "DTW",
+    "icaoCode": "KDTW",
+    "terminal": "M",
+    "gate": "A23",
+    "scheduledTime": "2018-11-09T07:52:00.000"
+    },
+    "airline": {
+    "name": "WestJet",
+    "iataCode": "WS",
+    "icaoCode": "WJA"
+    },
+    "flight": {
+    "number": "7157",
+    "iataNumber": "WS7157",
+    "icaoNumber": "WJA7157"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2701",
+    "iataNumber": "DL2701",
+    "icaoNumber": "DAL2701"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D14",
+    "scheduledTime": "2018-11-09T05:58:00.000"
+    },
+    "arrival": {
+    "iataCode": "DTW",
+    "icaoCode": "KDTW",
+    "terminal": "M",
+    "gate": "A23",
+    "scheduledTime": "2018-11-09T07:52:00.000"
+    },
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2701",
+    "iataNumber": "DL2701",
+    "icaoNumber": "DAL2701"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D8",
+    "scheduledTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "MSP",
+    "icaoCode": "KMSP",
+    "terminal": "1",
+    "gate": "D2",
+    "scheduledTime": "2018-11-09T07:56:00.000"
+    },
+    "airline": {
+    "name": "Jet Airways (India)",
+    "iataCode": "9W",
+    "icaoCode": "JAI"
+    },
+    "flight": {
+    "number": "7929",
+    "iataNumber": "9W7929",
+    "icaoNumber": "JAI7929"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2440",
+    "iataNumber": "DL2440",
+    "icaoNumber": "DAL2440"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D8",
+    "scheduledTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "MSP",
+    "icaoCode": "KMSP",
+    "terminal": "1",
+    "gate": "D2",
+    "scheduledTime": "2018-11-09T07:56:00.000"
+    },
+    "airline": {
+    "name": "WestJet",
+    "iataCode": "WS",
+    "icaoCode": "WJA"
+    },
+    "flight": {
+    "number": "7343",
+    "iataNumber": "WS7343",
+    "icaoNumber": "WJA7343"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2440",
+    "iataNumber": "DL2440",
+    "icaoNumber": "DAL2440"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D8",
+    "scheduledTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "MSP",
+    "icaoCode": "KMSP",
+    "terminal": "1",
+    "gate": "D2",
+    "scheduledTime": "2018-11-09T07:56:00.000"
+    },
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2440",
+    "iataNumber": "DL2440",
+    "icaoNumber": "DAL2440"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-09T06:00:00.000",
+    "estimatedTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "BNA",
+    "icaoCode": "KBNA",
+    "scheduledTime": "2018-11-09T07:20:00.000",
+    "estimatedTime": "2018-11-09T07:20:00.000"
+    },
+    "airline": {
+    "name": "Frontier Airlines",
+    "iataCode": "F9",
+    "icaoCode": "FFT"
+    },
+    "flight": {
+    "number": "1025",
+    "iataNumber": "F91025",
+    "icaoNumber": "FFT1025"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D13",
+    "scheduledTime": "2018-11-09T06:00:00.000",
+    "estimatedTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "IAH",
+    "icaoCode": "KIAH",
+    "terminal": "C",
+    "gate": "40",
+    "baggage": "C12",
+    "scheduledTime": "2018-11-09T08:41:00.000",
+    "estimatedTime": "2018-11-09T08:41:00.000"
+    },
+    "airline": {
+    "name": "Air New Zealand",
+    "iataCode": "NZ",
+    "icaoCode": "ANZ"
+    },
+    "flight": {
+    "number": "6868",
+    "iataNumber": "NZ6868",
+    "icaoNumber": "ANZ6868"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "United Airlines",
+    "iataCode": "UA",
+    "icaoCode": "UAL"
+    },
+    "flight": {
+    "number": "2113",
+    "iataNumber": "UA2113",
+    "icaoNumber": "UAL2113"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D13",
+    "scheduledTime": "2018-11-09T06:00:00.000",
+    "estimatedTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "IAH",
+    "icaoCode": "KIAH",
+    "terminal": "C",
+    "gate": "40",
+    "baggage": "C12",
+    "scheduledTime": "2018-11-09T08:41:00.000",
+    "estimatedTime": "2018-11-09T08:41:00.000"
+    },
+    "airline": {
+    "name": "United Airlines",
+    "iataCode": "UA",
+    "icaoCode": "UAL"
+    },
+    "flight": {
+    "number": "2113",
+    "iataNumber": "UA2113",
+    "icaoNumber": "UAL2113"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "scheduledTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "YYZ",
+    "icaoCode": "CYYZ",
+    "terminal": "1",
+    "scheduledTime": "2018-11-09T07:35:00.000"
+    },
+    "airline": {
+    "name": "Austrian",
+    "iataCode": "OS",
+    "icaoCode": "AUA"
+    },
+    "flight": {
+    "number": "8201",
+    "iataNumber": "OS8201",
+    "icaoNumber": "AUA8201"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Sky Regional",
+    "iataCode": "RS",
+    "icaoCode": "SKV"
+    },
+    "flight": {
+    "number": "7533",
+    "iataNumber": "RS7533",
+    "icaoNumber": "SKV7533"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "scheduledTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "YYZ",
+    "icaoCode": "CYYZ",
+    "terminal": "1",
+    "scheduledTime": "2018-11-09T07:35:00.000"
+    },
+    "airline": {
+    "name": "United Airlines",
+    "iataCode": "UA",
+    "icaoCode": "UAL"
+    },
+    "flight": {
+    "number": "8189",
+    "iataNumber": "UA8189",
+    "icaoNumber": "UAL8189"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Sky Regional",
+    "iataCode": "RS",
+    "icaoCode": "SKV"
+    },
+    "flight": {
+    "number": "7533",
+    "iataNumber": "RS7533",
+    "icaoNumber": "SKV7533"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "scheduledTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "YYZ",
+    "icaoCode": "CYYZ",
+    "terminal": "1",
+    "scheduledTime": "2018-11-09T07:35:00.000"
+    },
+    "airline": {
+    "name": "Air Canada",
+    "iataCode": "AC",
+    "icaoCode": "ACA"
+    },
+    "flight": {
+    "number": "7533",
+    "iataNumber": "AC7533",
+    "icaoNumber": "ACA7533"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Sky Regional",
+    "iataCode": "RS",
+    "icaoCode": "SKV"
+    },
+    "flight": {
+    "number": "7533",
+    "iataNumber": "RS7533",
+    "icaoNumber": "SKV7533"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "scheduledTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "YYZ",
+    "icaoCode": "CYYZ",
+    "terminal": "1",
+    "scheduledTime": "2018-11-09T07:35:00.000"
+    },
+    "airline": {
+    "name": "Sky Regional",
+    "iataCode": "RS",
+    "icaoCode": "SKV"
+    },
+    "flight": {
+    "number": "7533",
+    "iataNumber": "RS7533",
+    "icaoNumber": "SKV7533"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "26",
+    "scheduledTime": "2018-11-09T06:00:00.000",
+    "estimatedTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "MIA",
+    "icaoCode": "KMIA",
+    "scheduledTime": "2018-11-09T08:52:00.000",
+    "estimatedTime": "2018-11-09T08:52:00.000"
+    },
+    "airline": {
+    "name": "LATAM Airlines Brasil",
+    "iataCode": "JJ",
+    "icaoCode": "TAM"
+    },
+    "flight": {
+    "number": "2451",
+    "iataNumber": "JJ2451",
+    "icaoNumber": "TAM2451"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1450",
+    "iataNumber": "AA1450",
+    "icaoNumber": "AAL1450"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "26",
+    "scheduledTime": "2018-11-09T06:00:00.000",
+    "estimatedTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "MIA",
+    "icaoCode": "KMIA",
+    "scheduledTime": "2018-11-09T08:52:00.000",
+    "estimatedTime": "2018-11-09T08:52:00.000"
+    },
+    "airline": {
+    "name": "LATAM Airlines",
+    "iataCode": "LA",
+    "icaoCode": "LAN"
+    },
+    "flight": {
+    "number": "6882",
+    "iataNumber": "LA6882",
+    "icaoNumber": "LAN6882"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1450",
+    "iataNumber": "AA1450",
+    "icaoNumber": "AAL1450"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "26",
+    "scheduledTime": "2018-11-09T06:00:00.000",
+    "estimatedTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "MIA",
+    "icaoCode": "KMIA",
+    "scheduledTime": "2018-11-09T08:52:00.000",
+    "estimatedTime": "2018-11-09T08:52:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "1450",
+    "iataNumber": "AA1450",
+    "icaoNumber": "AAL1450"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "MCO",
+    "icaoCode": "KMCO",
+    "scheduledTime": "2018-11-09T08:30:00.000"
+    },
+    "airline": {
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "icaoCode": "SWA"
+    },
+    "flight": {
+    "number": "493",
+    "iataNumber": "WN493",
+    "icaoNumber": "SWA493"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D10",
+    "scheduledTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "S",
+    "gate": "B10",
+    "scheduledTime": "2018-11-09T08:11:00.000"
+    },
+    "airline": {
+    "name": "Aeromexico",
+    "iataCode": "AM",
+    "icaoCode": "AMX"
+    },
+    "flight": {
+    "number": "3099",
+    "iataNumber": "AM3099",
+    "icaoNumber": "AMX3099"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "1605",
+    "iataNumber": "DL1605",
+    "icaoNumber": "DAL1605"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D10",
+    "scheduledTime": "2018-11-09T06:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "S",
+    "gate": "B10",
+    "scheduledTime": "2018-11-09T08:11:00.000"
+    },
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "1605",
+    "iataNumber": "DL1605",
+    "icaoNumber": "DAL1605"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "11",
+    "scheduledTime": "2018-11-09T06:05:00.000",
+    "estimatedTime": "2018-11-09T06:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "3",
+    "gate": "H11B",
+    "baggage": "-",
+    "scheduledTime": "2018-11-09T07:31:00.000",
+    "estimatedTime": "2018-11-09T07:31:00.000"
+    },
+    "airline": {
+    "name": "Alaska Airlines",
+    "iataCode": "AS",
+    "icaoCode": "ASA"
+    },
+    "flight": {
+    "number": "4386",
+    "iataNumber": "AS4386",
+    "icaoNumber": "ASA4386"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "892",
+    "iataNumber": "AA892",
+    "icaoNumber": "AAL892"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "11",
+    "scheduledTime": "2018-11-09T06:05:00.000",
+    "estimatedTime": "2018-11-09T06:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "ORD",
+    "icaoCode": "KORD",
+    "terminal": "3",
+    "gate": "H11B",
+    "baggage": "-",
+    "scheduledTime": "2018-11-09T07:31:00.000",
+    "estimatedTime": "2018-11-09T07:31:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "892",
+    "iataNumber": "AA892",
+    "icaoNumber": "AAL892"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "scheduledTime": "2018-11-09T06:15:00.000"
+    },
+    "arrival": {
+    "iataCode": "MCO",
+    "icaoCode": "KMCO",
+    "scheduledTime": "2018-11-09T08:53:00.000"
+    },
+    "airline": {
+    "name": "Spirit Airlines",
+    "iataCode": "NK",
+    "icaoCode": "NKS"
+    },
+    "flight": {
+    "number": "753",
+    "iataNumber": "NK753",
+    "icaoNumber": "NKS753"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "scheduledTime": "2018-11-09T06:15:00.000"
+    },
+    "arrival": {
+    "iataCode": "LAX",
+    "icaoCode": "KLAX",
+    "terminal": "6",
+    "scheduledTime": "2018-11-09T09:31:00.000"
+    },
+    "airline": {
+    "name": "Alaska Airlines",
+    "iataCode": "AS",
+    "icaoCode": "ASA"
+    },
+    "flight": {
+    "number": "1129",
+    "iataNumber": "AS1129",
+    "icaoNumber": "ASA1129"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-09T06:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "FLL",
+    "icaoCode": "KFLL",
+    "terminal": "1",
+    "scheduledTime": "2018-11-09T09:05:00.000"
+    },
+    "airline": {
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "icaoCode": "SWA"
+    },
+    "flight": {
+    "number": "1740",
+    "iataNumber": "WN1740",
+    "icaoNumber": "SWA1740"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D1",
+    "scheduledTime": "2018-11-09T06:25:00.000",
+    "estimatedTime": "2018-11-09T06:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "IAD",
+    "icaoCode": "KIAD",
+    "gate": "A3",
+    "baggage": "3",
+    "scheduledTime": "2018-11-09T07:25:00.000",
+    "estimatedTime": "2018-11-09T07:25:00.000"
+    },
+    "airline": {
+    "name": "ANA",
+    "iataCode": "NH",
+    "icaoCode": "ANA"
+    },
+    "flight": {
+    "number": "7141",
+    "iataNumber": "NH7141",
+    "icaoNumber": "ANA7141"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Air Wisconsin",
+    "iataCode": "ZW",
+    "icaoCode": "AWI"
+    },
+    "flight": {
+    "number": "3884",
+    "iataNumber": "ZW3884",
+    "icaoNumber": "AWI3884"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D1",
+    "scheduledTime": "2018-11-09T06:25:00.000",
+    "estimatedTime": "2018-11-09T06:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "IAD",
+    "icaoCode": "KIAD",
+    "gate": "A3",
+    "baggage": "3",
+    "scheduledTime": "2018-11-09T07:25:00.000",
+    "estimatedTime": "2018-11-09T07:25:00.000"
+    },
+    "airline": {
+    "name": "United Airlines",
+    "iataCode": "UA",
+    "icaoCode": "UAL"
+    },
+    "flight": {
+    "number": "3884",
+    "iataNumber": "UA3884",
+    "icaoNumber": "UAL3884"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Air Wisconsin",
+    "iataCode": "ZW",
+    "icaoCode": "AWI"
+    },
+    "flight": {
+    "number": "3884",
+    "iataNumber": "ZW3884",
+    "icaoNumber": "AWI3884"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D1",
+    "scheduledTime": "2018-11-09T06:25:00.000",
+    "estimatedTime": "2018-11-09T06:25:00.000"
+    },
+    "arrival": {
+    "iataCode": "IAD",
+    "icaoCode": "KIAD",
+    "gate": "A3",
+    "baggage": "3",
+    "scheduledTime": "2018-11-09T07:25:00.000",
+    "estimatedTime": "2018-11-09T07:25:00.000"
+    },
+    "airline": {
+    "name": "Air Wisconsin",
+    "iataCode": "ZW",
+    "icaoCode": "AWI"
+    },
+    "flight": {
+    "number": "3884",
+    "iataNumber": "ZW3884",
+    "icaoNumber": "AWI3884"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-09T06:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "N",
+    "scheduledTime": "2018-11-09T08:40:00.000"
+    },
+    "airline": {
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "icaoCode": "SWA"
+    },
+    "flight": {
+    "number": "2281",
+    "iataNumber": "WN2281",
+    "icaoNumber": "SWA2281"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "25",
+    "scheduledTime": "2018-11-09T06:35:00.000",
+    "estimatedTime": "2018-11-09T06:35:00.000"
+    },
+    "arrival": {
+    "iataCode": "CLT",
+    "icaoCode": "KCLT",
+    "gate": "D5",
+    "scheduledTime": "2018-11-09T08:20:00.000",
+    "estimatedTime": "2018-11-09T08:20:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "563",
+    "iataNumber": "AA563",
+    "icaoNumber": "AAL563"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B5",
+    "scheduledTime": "2018-11-09T06:45:00.000",
+    "estimatedTime": "2018-11-09T06:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "DFW",
+    "icaoCode": "KDFW",
+    "terminal": "C",
+    "gate": "15",
+    "baggage": "C15",
+    "scheduledTime": "2018-11-09T09:38:00.000",
+    "estimatedTime": "2018-11-09T09:38:00.000"
+    },
+    "airline": {
+    "name": "JAL",
+    "iataCode": "JL",
+    "icaoCode": "JAL"
+    },
+    "flight": {
+    "number": "7407",
+    "iataNumber": "JL7407",
+    "icaoNumber": "JAL7407"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "411",
+    "iataNumber": "AA411",
+    "icaoNumber": "AAL411"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B5",
+    "scheduledTime": "2018-11-09T06:45:00.000",
+    "estimatedTime": "2018-11-09T06:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "DFW",
+    "icaoCode": "KDFW",
+    "terminal": "C",
+    "gate": "15",
+    "baggage": "C15",
+    "scheduledTime": "2018-11-09T09:38:00.000",
+    "estimatedTime": "2018-11-09T09:38:00.000"
+    },
+    "airline": {
+    "name": "Qantas",
+    "iataCode": "QF",
+    "icaoCode": "QFA"
+    },
+    "flight": {
+    "number": "4505",
+    "iataNumber": "QF4505",
+    "icaoNumber": "QFA4505"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "411",
+    "iataNumber": "AA411",
+    "icaoNumber": "AAL411"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "B",
+    "gate": "B5",
+    "scheduledTime": "2018-11-09T06:45:00.000",
+    "estimatedTime": "2018-11-09T06:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "DFW",
+    "icaoCode": "KDFW",
+    "terminal": "C",
+    "gate": "15",
+    "baggage": "C15",
+    "scheduledTime": "2018-11-09T09:38:00.000",
+    "estimatedTime": "2018-11-09T09:38:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "411",
+    "iataNumber": "AA411",
+    "icaoNumber": "AAL411"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "scheduledTime": "2018-11-09T06:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "N",
+    "scheduledTime": "2018-11-09T09:10:00.000"
+    },
+    "airline": {
+    "name": "Spirit Airlines",
+    "iataCode": "NK",
+    "icaoCode": "NKS"
+    },
+    "flight": {
+    "number": "877",
+    "iataNumber": "NK877",
+    "icaoNumber": "NKS877"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "C",
+    "gate": "C26",
+    "scheduledTime": "2018-11-09T06:45:00.000",
+    "estimatedTime": "2018-11-09T06:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "BOS",
+    "icaoCode": "KBOS",
+    "terminal": "B",
+    "scheduledTime": "2018-11-09T08:02:00.000",
+    "estimatedTime": "2018-11-09T08:02:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "2660",
+    "iataNumber": "AA2660",
+    "icaoNumber": "AAL2660"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-09T06:50:00.000"
+    },
+    "arrival": {
+    "iataCode": "FLL",
+    "icaoCode": "KFLL",
+    "terminal": "3",
+    "scheduledTime": "2018-11-09T09:29:00.000"
+    },
+    "airline": {
+    "name": "JetBlue Airways",
+    "iataCode": "B6",
+    "icaoCode": "JBU"
+    },
+    "flight": {
+    "number": "375",
+    "iataNumber": "B6375",
+    "icaoNumber": "JBU375"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "A",
+    "gate": "14",
+    "scheduledTime": "2018-11-09T06:55:00.000",
+    "estimatedTime": "2018-11-09T06:55:00.000"
+    },
+    "arrival": {
+    "iataCode": "PHX",
+    "icaoCode": "KPHX",
+    "terminal": "4",
+    "scheduledTime": "2018-11-09T10:23:00.000",
+    "estimatedTime": "2018-11-09T10:23:00.000"
+    },
+    "airline": {
+    "name": "American Airlines",
+    "iataCode": "AA",
+    "icaoCode": "AAL"
+    },
+    "flight": {
+    "number": "499",
+    "iataNumber": "AA499",
+    "icaoNumber": "AAL499"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D12",
+    "scheduledTime": "2018-11-09T07:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "S",
+    "gate": "B13",
+    "scheduledTime": "2018-11-09T09:10:00.000"
+    },
+    "airline": {
+    "name": "Aeromexico",
+    "iataCode": "AM",
+    "icaoCode": "AMX"
+    },
+    "flight": {
+    "number": "5087",
+    "iataNumber": "AM5087",
+    "icaoNumber": "AMX5087"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2061",
+    "iataNumber": "DL2061",
+    "icaoNumber": "DAL2061"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D12",
+    "scheduledTime": "2018-11-09T07:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "S",
+    "gate": "B13",
+    "scheduledTime": "2018-11-09T09:10:00.000"
+    },
+    "airline": {
+    "name": "Korean Air",
+    "iataCode": "KE",
+    "icaoCode": "KAL"
+    },
+    "flight": {
+    "number": "3704",
+    "iataNumber": "KE3704",
+    "icaoNumber": "KAL3704"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2061",
+    "iataNumber": "DL2061",
+    "icaoNumber": "DAL2061"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "D",
+    "gate": "D12",
+    "scheduledTime": "2018-11-09T07:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATL",
+    "icaoCode": "KATL",
+    "terminal": "S",
+    "gate": "B13",
+    "scheduledTime": "2018-11-09T09:10:00.000"
+    },
+    "airline": {
+    "name": "Delta Air Lines",
+    "iataCode": "DL",
+    "icaoCode": "DAL"
+    },
+    "flight": {
+    "number": "2061",
+    "iataNumber": "DL2061",
+    "icaoNumber": "DAL2061"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-09T07:00:00.000",
+    "estimatedTime": "2018-11-09T07:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "MCO",
+    "icaoCode": "KMCO",
+    "scheduledTime": "2018-11-09T09:39:00.000",
+    "estimatedTime": "2018-11-09T09:39:00.000"
+    },
+    "airline": {
+    "name": "Frontier Airlines",
+    "iataCode": "F9",
+    "icaoCode": "FFT"
+    },
+    "flight": {
+    "number": "1671",
+    "iataNumber": "F91671",
+    "icaoNumber": "FFT1671"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "PHL",
+    "icaoCode": "KPHL",
+    "terminal": "E",
+    "scheduledTime": "2018-11-09T07:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "LAS",
+    "icaoCode": "KLAS",
+    "terminal": "1",
+    "scheduledTime": "2018-11-09T09:40:00.000"
+    },
+    "airline": {
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "icaoCode": "SWA"
+    },
+    "flight": {
+    "number": "1552",
+    "iataNumber": "WN1552",
+    "icaoNumber": "SWA1552"
+    }
+    }
+]

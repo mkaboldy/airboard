@@ -1,0 +1,617 @@
+[
+    {
+    "geography": {
+    "latitude": 34.3375,
+    "longitude": -3.31146,
+    "altitude": 10670.7,
+    "direction": 66
+    },
+    "speed": {
+    "horizontal": 903.288,
+    "isGround": 0,
+    "vertical": 0.32512
+    },
+    "departure": {
+    "iataCode": "TFS",
+    "icaoCode": "GCTS"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "HALYT",
+    "icaoCode": "A320",
+    "icao24": "471F8F",
+    "iataCode": "A320"
+    },
+    "airline": {
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "iataNumber": "W62494",
+    "icaoNumber": "WZZ2494",
+    "number": "2494"
+    },
+    "system": {
+    "updated": "1541630102",
+    "squawk": "6247"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 44.2897,
+    "longitude": 25.4829,
+    "altitude": 10968,
+    "direction": 61
+    },
+    "speed": {
+    "horizontal": 819.993,
+    "isGround": 0,
+    "vertical": 0
+    },
+    "departure": {
+    "iataCode": "LTN",
+    "icaoCode": "EGGW"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "HALWM",
+    "icaoCode": "A320",
+    "icao24": "",
+    "iataCode": "A320"
+    },
+    "airline": {
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "iataNumber": "W61UR",
+    "icaoNumber": "WZZ1UR",
+    "number": "1UR"
+    },
+    "system": {
+    "updated": "1541630102",
+    "squawk": "1265"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 48.0824,
+    "longitude": 20.8212,
+    "altitude": 7919.21,
+    "direction": 252
+    },
+    "speed": {
+    "horizontal": 715.782,
+    "isGround": 0,
+    "vertical": 0.32512
+    },
+    "departure": {
+    "iataCode": "TSE",
+    "icaoCode": "UACC"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "HALWR",
+    "icaoCode": "A320",
+    "icao24": "471F59",
+    "iataCode": "A320"
+    },
+    "airline": {
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "iataNumber": "W62250",
+    "icaoNumber": "WZZ2250",
+    "number": "2250"
+    },
+    "system": {
+    "updated": "1541630102",
+    "squawk": "7352"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 47.567,
+    "longitude": 19.2745,
+    "altitude": 2576.22,
+    "direction": 308
+    },
+    "speed": {
+    "horizontal": 514.578,
+    "isGround": 0,
+    "vertical": -10.4038
+    },
+    "departure": {
+    "iataCode": "AYT",
+    "icaoCode": "LTAI"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "OKTSD",
+    "icaoCode": "B738",
+    "icao24": "49D327",
+    "iataCode": "B738"
+    },
+    "airline": {
+    "iataCode": "7O",
+    "icaoCode": "TVL"
+    },
+    "flight": {
+    "iataNumber": "7O5393",
+    "icaoNumber": "TVL5393",
+    "number": "5393"
+    },
+    "system": {
+    "updated": "1541630101",
+    "squawk": "2371"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 47.4343,
+    "longitude": 19.2617,
+    "altitude": 83.8415,
+    "direction": 53
+    },
+    "speed": {
+    "horizontal": 0,
+    "isGround": 0,
+    "vertical": 0
+    },
+    "departure": {
+    "iataCode": "MUC",
+    "icaoCode": "EDDM"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "DAIUY",
+    "icaoCode": "A320",
+    "icao24": "3C66B9",
+    "iataCode": "A320"
+    },
+    "airline": {
+    "iataCode": "",
+    "icaoCode": "DLH"
+    },
+    "flight": {
+    "iataNumber": "",
+    "icaoNumber": "DLH2NT",
+    "number": ""
+    },
+    "system": {
+    "updated": "1541630053",
+    "squawk": "1000"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 47.4322,
+    "longitude": 19.2522,
+    "altitude": 0,
+    "direction": 42
+    },
+    "speed": {
+    "horizontal": 44.448,
+    "isGround": 0,
+    "vertical": 0
+    },
+    "departure": {
+    "iataCode": "MUC",
+    "icaoCode": "EDDM"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "DAIUZ",
+    "icaoCode": "A320",
+    "icao24": "3C66BA",
+    "iataCode": "A320"
+    },
+    "airline": {
+    "iataCode": "LH",
+    "icaoCode": "GEC"
+    },
+    "flight": {
+    "iataNumber": "LH1682",
+    "icaoNumber": "GEC1682",
+    "number": "1682"
+    },
+    "system": {
+    "updated": "1541629860",
+    "squawk": "1000"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 51.4001,
+    "longitude": 9.3448,
+    "altitude": 10660.4,
+    "direction": 113
+    },
+    "speed": {
+    "horizontal": 785.248,
+    "isGround": 0,
+    "vertical": 0
+    },
+    "departure": {
+    "iataCode": "LTN",
+    "icaoCode": "EGGW"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "HALTA",
+    "icaoCode": "A321",
+    "icao24": "471EFA",
+    "iataCode": "A321"
+    },
+    "airline": {
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "iataNumber": "W62210",
+    "icaoNumber": "WZZ2210",
+    "number": "2210"
+    },
+    "system": {
+    "updated": "1541629859",
+    "squawk": "541"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 47.1362,
+    "longitude": 17.6259,
+    "altitude": 7033.26,
+    "direction": 62
+    },
+    "speed": {
+    "horizontal": 731.54,
+    "isGround": 0,
+    "vertical": -9.42848
+    },
+    "departure": {
+    "iataCode": "MXP",
+    "icaoCode": "LIMC"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "HALYG",
+    "icaoCode": "A320",
+    "icao24": "471F82",
+    "iataCode": "A320"
+    },
+    "airline": {
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "iataNumber": "W62336",
+    "icaoNumber": "WZZ2336",
+    "number": "2336"
+    },
+    "system": {
+    "updated": "1541629859",
+    "squawk": "1000"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 45.7605,
+    "longitude": 13.8469,
+    "altitude": 10972.8,
+    "direction": 61
+    },
+    "speed": {
+    "horizontal": 827.844,
+    "isGround": 0,
+    "vertical": 0.32512
+    },
+    "departure": {
+    "iataCode": "LIS",
+    "icaoCode": "LPPT"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "HALTD",
+    "icaoCode": "A321",
+    "icao24": "471EFD",
+    "iataCode": "A321"
+    },
+    "airline": {
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "iataNumber": "W62394",
+    "icaoNumber": "WZZ2394",
+    "number": "2394"
+    },
+    "system": {
+    "updated": "1541629858",
+    "squawk": "1000"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 48.1061,
+    "longitude": 18.2823,
+    "altitude": 4907.28,
+    "direction": 136
+    },
+    "speed": {
+    "horizontal": 557.452,
+    "isGround": 0,
+    "vertical": -7.47776
+    },
+    "departure": {
+    "iataCode": "DUB",
+    "icaoCode": "EIDW"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "EIEMD",
+    "icaoCode": "B738",
+    "icao24": "4CA84C",
+    "iataCode": "B738"
+    },
+    "airline": {
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "iataNumber": "FR1023",
+    "icaoNumber": "RYR1023",
+    "number": "1023"
+    },
+    "system": {
+    "updated": "1541629858",
+    "squawk": "3460"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 47.2825,
+    "longitude": 13.0968,
+    "altitude": 11277.6,
+    "direction": 96
+    },
+    "speed": {
+    "horizontal": 788.952,
+    "isGround": 0,
+    "vertical": -0.32512
+    },
+    "departure": {
+    "iataCode": "BVA",
+    "icaoCode": "LFOB"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "EIDPT",
+    "icaoCode": "B738",
+    "icao24": "4CA4F7",
+    "iataCode": "B738"
+    },
+    "airline": {
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "iataNumber": "FR8414",
+    "icaoNumber": "RYR8414",
+    "number": "8414"
+    },
+    "system": {
+    "updated": "1541629858",
+    "squawk": "1000"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 49.911,
+    "longitude": 17.546,
+    "altitude": 11277.6,
+    "direction": 163
+    },
+    "speed": {
+    "horizontal": 768.58,
+    "isGround": 0,
+    "vertical": -0.32512
+    },
+    "departure": {
+    "iataCode": "GOT",
+    "icaoCode": "ESGG"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "HALPS",
+    "icaoCode": "A320",
+    "icao24": "471EA4",
+    "iataCode": "A320"
+    },
+    "airline": {
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "iataNumber": "W62406",
+    "icaoNumber": "WZZ2406",
+    "number": "2406"
+    },
+    "system": {
+    "updated": "1541629857",
+    "squawk": "4625"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 43.67,
+    "longitude": 7.4961,
+    "altitude": 10972.8,
+    "direction": 51
+    },
+    "speed": {
+    "horizontal": 881.552,
+    "isGround": 0,
+    "vertical": -0.32512
+    },
+    "departure": {
+    "iataCode": "MAD",
+    "icaoCode": "LEMD"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "HALXV",
+    "icaoCode": "A321",
+    "icao24": "471F77",
+    "iataCode": "A321"
+    },
+    "airline": {
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "iataNumber": "W62372",
+    "icaoNumber": "WZZ2372",
+    "number": "2372"
+    },
+    "system": {
+    "updated": "1541629844",
+    "squawk": "1000"
+    },
+    "status": "en-route"
+    },
+    {
+    "geography": {
+    "latitude": 47.4342,
+    "longitude": 19.2661,
+    "altitude": 0,
+    "direction": 222
+    },
+    "speed": {
+    "horizontal": 0,
+    "isGround": 0,
+    "vertical": 0
+    },
+    "departure": {
+    "iataCode": "CRL",
+    "icaoCode": "CRL"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "BUD"
+    },
+    "aircraft": {
+    "regNumber": "HALTE",
+    "icaoCode": "A321",
+    "icao24": "471EFE",
+    "iataCode": "A321"
+    },
+    "airline": {
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "iataNumber": "W62284",
+    "icaoNumber": "WZZ2284",
+    "number": "2284"
+    },
+    "system": {
+    "updated": "1541629750",
+    "squawk": "0"
+    },
+    "status": "landed"
+    },
+    {
+    "geography": {
+    "latitude": 34.0134,
+    "longitude": -4.2095,
+    "altitude": 10660.4,
+    "direction": 66.22
+    },
+    "speed": {
+    "horizontal": 904.68,
+    "isGround": 0,
+    "vertical": 0
+    },
+    "departure": {
+    "iataCode": "FAO",
+    "icaoCode": "LPFR"
+    },
+    "arrival": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP"
+    },
+    "aircraft": {
+    "regNumber": "HALXU",
+    "icaoCode": "A321",
+    "icao24": "471F76",
+    "iataCode": "A321"
+    },
+    "airline": {
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "iataNumber": "W62414",
+    "icaoNumber": "WZZ2414",
+    "number": "2414"
+    },
+    "system": {
+    "updated": "1541629736",
+    "squawk": "6247"
+    },
+    "status": "started"
+    }
+    ]

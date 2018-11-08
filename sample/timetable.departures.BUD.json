@@ -1,0 +1,1801 @@
+[
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "scheduledTime": "2018-11-07T17:20:00.000",
+    "estimatedTime": "2018-11-07T17:10:00.000",
+    "actualTime": "2018-11-07T17:10:00.000",
+    "estimatedRunway": "2018-11-07T17:21:00.000",
+    "actualRunway": "2018-11-07T17:21:00.000"
+    },
+    "arrival": {
+    "iataCode": "WAW",
+    "icaoCode": "EPWA",
+    "baggage": "2",
+    "scheduledTime": "2018-11-07T18:40:00.000",
+    "estimatedTime": "2018-11-07T18:30:00.000",
+    "actualTime": "2018-11-07T18:30:00.000",
+    "estimatedRunway": "2018-11-07T18:21:00.000",
+    "actualRunway": "2018-11-07T18:21:00.000"
+    },
+    "airline": {
+    "name": "LOT - Polish Airlines",
+    "iataCode": "LO",
+    "icaoCode": "LOT"
+    },
+    "flight": {
+    "number": "538",
+    "iataNumber": "LO538",
+    "icaoNumber": "LOT538"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T17:20:00.000",
+    "estimatedTime": "2018-11-07T17:19:00.000",
+    "actualTime": "2018-11-07T17:19:00.000",
+    "estimatedRunway": "2018-11-07T17:30:00.000",
+    "actualRunway": "2018-11-07T17:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "DUB",
+    "icaoCode": "EIDW",
+    "terminal": "1",
+    "scheduledTime": "2018-11-07T19:30:00.000",
+    "estimatedTime": "2018-11-07T19:10:00.000",
+    "actualTime": "2018-11-07T19:10:00.000",
+    "estimatedRunway": "2018-11-07T19:04:00.000",
+    "actualRunway": "2018-11-07T19:04:00.000"
+    },
+    "airline": {
+    "name": "Ryanair",
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "number": "1024",
+    "iataNumber": "FR1024",
+    "icaoNumber": "RYR1024"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "delay": 20,
+    "scheduledTime": "2018-11-07T17:05:00.000",
+    "estimatedTime": "2018-11-07T17:25:00.000",
+    "actualTime": "2018-11-07T17:25:00.000",
+    "estimatedRunway": "2018-11-07T17:33:00.000",
+    "actualRunway": "2018-11-07T17:33:00.000"
+    },
+    "arrival": {
+    "iataCode": "AMS",
+    "icaoCode": "EHAM",
+    "terminal": "2",
+    "gate": "C8",
+    "baggage": "009",
+    "delay": 5,
+    "scheduledTime": "2018-11-07T19:15:00.000",
+    "estimatedTime": "2018-11-07T19:20:00.000",
+    "actualTime": "2018-11-07T19:20:00.000",
+    "estimatedRunway": "2018-11-07T19:12:00.000",
+    "actualRunway": "2018-11-07T19:12:00.000"
+    },
+    "airline": {
+    "name": "Xiamen Airlines",
+    "iataCode": "MF",
+    "icaoCode": "CXA"
+    },
+    "flight": {
+    "number": "9776",
+    "iataNumber": "MF9776",
+    "icaoNumber": "CXA9776"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "KLM",
+    "iataCode": "KL",
+    "icaoCode": "KLM"
+    },
+    "flight": {
+    "number": "1978",
+    "iataNumber": "KL1978",
+    "icaoNumber": "KLM1978"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "delay": 20,
+    "scheduledTime": "2018-11-07T17:05:00.000",
+    "estimatedTime": "2018-11-07T17:25:00.000",
+    "actualTime": "2018-11-07T17:25:00.000",
+    "estimatedRunway": "2018-11-07T17:33:00.000",
+    "actualRunway": "2018-11-07T17:33:00.000"
+    },
+    "arrival": {
+    "iataCode": "AMS",
+    "icaoCode": "EHAM",
+    "terminal": "2",
+    "gate": "C8",
+    "baggage": "009",
+    "delay": 5,
+    "scheduledTime": "2018-11-07T19:15:00.000",
+    "estimatedTime": "2018-11-07T19:20:00.000",
+    "actualTime": "2018-11-07T19:20:00.000",
+    "estimatedRunway": "2018-11-07T19:12:00.000",
+    "actualRunway": "2018-11-07T19:12:00.000"
+    },
+    "airline": {
+    "name": "KLM",
+    "iataCode": "KL",
+    "icaoCode": "KLM"
+    },
+    "flight": {
+    "number": "1978",
+    "iataNumber": "KL1978",
+    "icaoNumber": "KLM1978"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T17:25:00.000",
+    "estimatedRunway": "2018-11-07T17:37:00.000",
+    "actualRunway": "2018-11-07T17:37:00.000"
+    },
+    "arrival": {
+    "iataCode": "MAD",
+    "icaoCode": "LEMD",
+    "terminal": "1",
+    "scheduledTime": "2018-11-07T20:50:00.000"
+    },
+    "airline": {
+    "name": "Wizz Air",
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "number": "2371",
+    "iataNumber": "W62371",
+    "icaoNumber": "WZZ2371"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "scheduledTime": "2018-11-07T17:35:00.000",
+    "estimatedRunway": "2018-11-07T17:58:00.000",
+    "actualRunway": "2018-11-07T17:58:00.000"
+    },
+    "arrival": {
+    "iataCode": "BRU",
+    "icaoCode": "EBBR",
+    "baggage": "4",
+    "delay": 5,
+    "scheduledTime": "2018-11-07T19:40:00.000",
+    "estimatedTime": "2018-11-07T19:45:00.000",
+    "actualTime": "2018-11-07T19:45:00.000",
+    "estimatedRunway": "2018-11-07T19:40:00.000",
+    "actualRunway": "2018-11-07T19:40:00.000"
+    },
+    "airline": {
+    "name": "ANA",
+    "iataCode": "NH",
+    "icaoCode": "ANA"
+    },
+    "flight": {
+    "number": "5176",
+    "iataNumber": "NH5176",
+    "icaoNumber": "ANA5176"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Brussels Airlines",
+    "iataCode": "SN",
+    "icaoCode": "BEL"
+    },
+    "flight": {
+    "number": "2826",
+    "iataNumber": "SN2826",
+    "icaoNumber": "BEL2826"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "scheduledTime": "2018-11-07T17:35:00.000",
+    "estimatedRunway": "2018-11-07T17:58:00.000",
+    "actualRunway": "2018-11-07T17:58:00.000"
+    },
+    "arrival": {
+    "iataCode": "BRU",
+    "icaoCode": "EBBR",
+    "baggage": "4",
+    "delay": 5,
+    "scheduledTime": "2018-11-07T19:40:00.000",
+    "estimatedTime": "2018-11-07T19:45:00.000",
+    "actualTime": "2018-11-07T19:45:00.000",
+    "estimatedRunway": "2018-11-07T19:40:00.000",
+    "actualRunway": "2018-11-07T19:40:00.000"
+    },
+    "airline": {
+    "name": "Brussels Airlines",
+    "iataCode": "SN",
+    "icaoCode": "BEL"
+    },
+    "flight": {
+    "number": "2826",
+    "iataNumber": "SN2826",
+    "icaoNumber": "BEL2826"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "delay": 6,
+    "scheduledTime": "2018-11-07T17:45:00.000",
+    "estimatedTime": "2018-11-07T17:51:00.000",
+    "actualTime": "2018-11-07T17:51:00.000",
+    "estimatedRunway": "2018-11-07T18:01:00.000",
+    "actualRunway": "2018-11-07T18:01:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "baggage": "08",
+    "delay": 3,
+    "scheduledTime": "2018-11-07T19:30:00.000",
+    "estimatedTime": "2018-11-07T19:33:00.000",
+    "actualTime": "2018-11-07T19:33:00.000",
+    "estimatedRunway": "2018-11-07T19:13:00.000",
+    "actualRunway": "2018-11-07T19:13:00.000"
+    },
+    "airline": {
+    "name": "Iberia",
+    "iataCode": "IB",
+    "icaoCode": "IBE"
+    },
+    "flight": {
+    "number": "7518",
+    "iataNumber": "IB7518",
+    "icaoNumber": "IBE7518"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "867",
+    "iataNumber": "BA867",
+    "icaoNumber": "BAW867"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "delay": 6,
+    "scheduledTime": "2018-11-07T17:45:00.000",
+    "estimatedTime": "2018-11-07T17:51:00.000",
+    "actualTime": "2018-11-07T17:51:00.000",
+    "estimatedRunway": "2018-11-07T18:01:00.000",
+    "actualRunway": "2018-11-07T18:01:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "baggage": "08",
+    "delay": 3,
+    "scheduledTime": "2018-11-07T19:30:00.000",
+    "estimatedTime": "2018-11-07T19:33:00.000",
+    "actualTime": "2018-11-07T19:33:00.000",
+    "estimatedRunway": "2018-11-07T19:13:00.000",
+    "actualRunway": "2018-11-07T19:13:00.000"
+    },
+    "airline": {
+    "name": "Qantas",
+    "iataCode": "QF",
+    "icaoCode": "QFA"
+    },
+    "flight": {
+    "number": "3545",
+    "iataNumber": "QF3545",
+    "icaoNumber": "QFA3545"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "867",
+    "iataNumber": "BA867",
+    "icaoNumber": "BAW867"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "delay": 6,
+    "scheduledTime": "2018-11-07T17:45:00.000",
+    "estimatedTime": "2018-11-07T17:51:00.000",
+    "actualTime": "2018-11-07T17:51:00.000",
+    "estimatedRunway": "2018-11-07T18:01:00.000",
+    "actualRunway": "2018-11-07T18:01:00.000"
+    },
+    "arrival": {
+    "iataCode": "LHR",
+    "icaoCode": "EGLL",
+    "terminal": "3",
+    "baggage": "08",
+    "delay": 3,
+    "scheduledTime": "2018-11-07T19:30:00.000",
+    "estimatedTime": "2018-11-07T19:33:00.000",
+    "actualTime": "2018-11-07T19:33:00.000",
+    "estimatedRunway": "2018-11-07T19:13:00.000",
+    "actualRunway": "2018-11-07T19:13:00.000"
+    },
+    "airline": {
+    "name": "British Airways",
+    "iataCode": "BA",
+    "icaoCode": "BAW"
+    },
+    "flight": {
+    "number": "867",
+    "iataNumber": "BA867",
+    "icaoNumber": "BAW867"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A7",
+    "scheduledTime": "2018-11-07T18:15:00.000",
+    "estimatedTime": "2018-11-07T18:15:00.000",
+    "actualTime": "2018-11-07T18:15:00.000",
+    "estimatedRunway": "2018-11-07T18:26:00.000",
+    "actualRunway": "2018-11-07T18:26:00.000"
+    },
+    "arrival": {
+    "iataCode": "FRA",
+    "icaoCode": "EDDF",
+    "terminal": "1",
+    "gate": "A20",
+    "delay": 3,
+    "scheduledTime": "2018-11-07T20:00:00.000",
+    "estimatedTime": "2018-11-07T20:03:00.000",
+    "actualTime": "2018-11-07T20:03:00.000",
+    "estimatedRunway": "2018-11-07T19:44:00.000",
+    "actualRunway": "2018-11-07T19:44:00.000"
+    },
+    "airline": {
+    "name": "Ethiopian Airlines",
+    "iataCode": "ET",
+    "icaoCode": "ETH"
+    },
+    "flight": {
+    "number": "1554",
+    "iataNumber": "ET1554",
+    "icaoNumber": "ETH1554"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Lufthansa",
+    "iataCode": "LH",
+    "icaoCode": "DLH"
+    },
+    "flight": {
+    "number": "1345",
+    "iataNumber": "LH1345",
+    "icaoNumber": "DLH1345"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A7",
+    "scheduledTime": "2018-11-07T18:15:00.000",
+    "estimatedTime": "2018-11-07T18:15:00.000",
+    "actualTime": "2018-11-07T18:15:00.000",
+    "estimatedRunway": "2018-11-07T18:26:00.000",
+    "actualRunway": "2018-11-07T18:26:00.000"
+    },
+    "arrival": {
+    "iataCode": "FRA",
+    "icaoCode": "EDDF",
+    "terminal": "1",
+    "gate": "A20",
+    "delay": 3,
+    "scheduledTime": "2018-11-07T20:00:00.000",
+    "estimatedTime": "2018-11-07T20:03:00.000",
+    "actualTime": "2018-11-07T20:03:00.000",
+    "estimatedRunway": "2018-11-07T19:44:00.000",
+    "actualRunway": "2018-11-07T19:44:00.000"
+    },
+    "airline": {
+    "name": "Brussels Airlines",
+    "iataCode": "SN",
+    "icaoCode": "BEL"
+    },
+    "flight": {
+    "number": "7146",
+    "iataNumber": "SN7146",
+    "icaoNumber": "BEL7146"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Lufthansa",
+    "iataCode": "LH",
+    "icaoCode": "DLH"
+    },
+    "flight": {
+    "number": "1345",
+    "iataNumber": "LH1345",
+    "icaoNumber": "DLH1345"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A7",
+    "scheduledTime": "2018-11-07T18:15:00.000",
+    "estimatedTime": "2018-11-07T18:15:00.000",
+    "actualTime": "2018-11-07T18:15:00.000",
+    "estimatedRunway": "2018-11-07T18:26:00.000",
+    "actualRunway": "2018-11-07T18:26:00.000"
+    },
+    "arrival": {
+    "iataCode": "FRA",
+    "icaoCode": "EDDF",
+    "terminal": "1",
+    "gate": "A20",
+    "delay": 3,
+    "scheduledTime": "2018-11-07T20:00:00.000",
+    "estimatedTime": "2018-11-07T20:03:00.000",
+    "actualTime": "2018-11-07T20:03:00.000",
+    "estimatedRunway": "2018-11-07T19:44:00.000",
+    "actualRunway": "2018-11-07T19:44:00.000"
+    },
+    "airline": {
+    "name": "TAP Portugal",
+    "iataCode": "TP",
+    "icaoCode": "TAP"
+    },
+    "flight": {
+    "number": "7983",
+    "iataNumber": "TP7983",
+    "icaoNumber": "TAP7983"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Lufthansa",
+    "iataCode": "LH",
+    "icaoCode": "DLH"
+    },
+    "flight": {
+    "number": "1345",
+    "iataNumber": "LH1345",
+    "icaoNumber": "DLH1345"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A7",
+    "scheduledTime": "2018-11-07T18:15:00.000",
+    "estimatedTime": "2018-11-07T18:15:00.000",
+    "actualTime": "2018-11-07T18:15:00.000",
+    "estimatedRunway": "2018-11-07T18:26:00.000",
+    "actualRunway": "2018-11-07T18:26:00.000"
+    },
+    "arrival": {
+    "iataCode": "FRA",
+    "icaoCode": "EDDF",
+    "terminal": "1",
+    "gate": "A20",
+    "delay": 3,
+    "scheduledTime": "2018-11-07T20:00:00.000",
+    "estimatedTime": "2018-11-07T20:03:00.000",
+    "actualTime": "2018-11-07T20:03:00.000",
+    "estimatedRunway": "2018-11-07T19:44:00.000",
+    "actualRunway": "2018-11-07T19:44:00.000"
+    },
+    "airline": {
+    "name": "Lufthansa",
+    "iataCode": "LH",
+    "icaoCode": "DLH"
+    },
+    "flight": {
+    "number": "1345",
+    "iataNumber": "LH1345",
+    "icaoNumber": "DLH1345"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T18:30:00.000",
+    "estimatedTime": "2018-11-07T18:27:00.000",
+    "actualTime": "2018-11-07T18:27:00.000",
+    "estimatedRunway": "2018-11-07T18:37:00.000",
+    "actualRunway": "2018-11-07T18:37:00.000"
+    },
+    "arrival": {
+    "iataCode": "STN",
+    "icaoCode": "EGSS",
+    "terminal": "1",
+    "scheduledTime": "2018-11-07T20:00:00.000",
+    "estimatedTime": "2018-11-07T19:51:00.000",
+    "actualTime": "2018-11-07T19:51:00.000",
+    "estimatedRunway": "2018-11-07T19:41:00.000",
+    "actualRunway": "2018-11-07T19:41:00.000"
+    },
+    "airline": {
+    "name": "Ryanair",
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "number": "1671",
+    "iataNumber": "FR1671",
+    "icaoNumber": "RYR1671"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A4",
+    "scheduledTime": "2018-11-07T18:40:00.000",
+    "estimatedTime": "2018-11-07T18:40:00.000",
+    "actualTime": "2018-11-07T18:40:00.000",
+    "estimatedRunway": "2018-11-07T18:45:00.000",
+    "actualRunway": "2018-11-07T18:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "VIE",
+    "icaoCode": "LOWW",
+    "baggage": "10",
+    "scheduledTime": "2018-11-07T19:30:00.000",
+    "estimatedTime": "2018-11-07T19:24:00.000",
+    "actualTime": "2018-11-07T19:24:00.000",
+    "estimatedRunway": "2018-11-07T19:20:00.000",
+    "actualRunway": "2018-11-07T19:20:00.000"
+    },
+    "airline": {
+    "name": "Luxair",
+    "iataCode": "LG",
+    "icaoCode": "LGL"
+    },
+    "flight": {
+    "number": "1722",
+    "iataNumber": "LG1722",
+    "icaoNumber": "LGL1722"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Adria Airways",
+    "iataCode": "JP",
+    "icaoCode": "ADR"
+    },
+    "flight": {
+    "number": "722",
+    "iataNumber": "JP722",
+    "icaoNumber": "ADR722"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A4",
+    "scheduledTime": "2018-11-07T18:40:00.000",
+    "estimatedTime": "2018-11-07T18:40:00.000",
+    "actualTime": "2018-11-07T18:40:00.000",
+    "estimatedRunway": "2018-11-07T18:45:00.000",
+    "actualRunway": "2018-11-07T18:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "VIE",
+    "icaoCode": "LOWW",
+    "baggage": "10",
+    "scheduledTime": "2018-11-07T19:30:00.000",
+    "estimatedTime": "2018-11-07T19:24:00.000",
+    "actualTime": "2018-11-07T19:24:00.000",
+    "estimatedRunway": "2018-11-07T19:20:00.000",
+    "actualRunway": "2018-11-07T19:20:00.000"
+    },
+    "airline": {
+    "name": "Austrian",
+    "iataCode": "OS",
+    "icaoCode": "AUA"
+    },
+    "flight": {
+    "number": "722",
+    "iataNumber": "OS722",
+    "icaoNumber": "AUA722"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Adria Airways",
+    "iataCode": "JP",
+    "icaoCode": "ADR"
+    },
+    "flight": {
+    "number": "722",
+    "iataNumber": "JP722",
+    "icaoNumber": "ADR722"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A4",
+    "scheduledTime": "2018-11-07T18:40:00.000",
+    "estimatedTime": "2018-11-07T18:40:00.000",
+    "actualTime": "2018-11-07T18:40:00.000",
+    "estimatedRunway": "2018-11-07T18:45:00.000",
+    "actualRunway": "2018-11-07T18:45:00.000"
+    },
+    "arrival": {
+    "iataCode": "VIE",
+    "icaoCode": "LOWW",
+    "baggage": "10",
+    "scheduledTime": "2018-11-07T19:30:00.000",
+    "estimatedTime": "2018-11-07T19:24:00.000",
+    "actualTime": "2018-11-07T19:24:00.000",
+    "estimatedRunway": "2018-11-07T19:20:00.000",
+    "actualRunway": "2018-11-07T19:20:00.000"
+    },
+    "airline": {
+    "name": "Adria Airways",
+    "iataCode": "JP",
+    "icaoCode": "ADR"
+    },
+    "flight": {
+    "number": "722",
+    "iataNumber": "JP722",
+    "icaoNumber": "ADR722"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T18:45:00.000",
+    "estimatedRunway": "2018-11-07T19:00:00.000",
+    "actualRunway": "2018-11-07T19:00:00.000"
+    },
+    "arrival": {
+    "iataCode": "CRL",
+    "icaoCode": "EBCI",
+    "scheduledTime": "2018-11-07T20:50:00.000"
+    },
+    "airline": {
+    "name": "Wizz Air",
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "number": "2283",
+    "iataNumber": "W62283",
+    "icaoNumber": "WZZ2283"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T19:00:00.000",
+    "estimatedRunway": "2018-11-07T19:16:00.000",
+    "actualRunway": "2018-11-07T19:16:00.000"
+    },
+    "arrival": {
+    "iataCode": "LTN",
+    "icaoCode": "EGGW",
+    "scheduledTime": "2018-11-07T20:40:00.000",
+    "estimatedRunway": "2018-11-07T20:22:00.000",
+    "actualRunway": "2018-11-07T20:22:00.000"
+    },
+    "airline": {
+    "name": "Wizz Air",
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "number": "2209",
+    "iataNumber": "W62209",
+    "icaoNumber": "WZZ2209"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A5",
+    "scheduledTime": "2018-11-07T19:10:00.000",
+    "estimatedTime": "2018-11-07T19:04:00.000",
+    "actualTime": "2018-11-07T19:04:00.000",
+    "estimatedRunway": "2018-11-07T19:14:00.000",
+    "actualRunway": "2018-11-07T19:14:00.000"
+    },
+    "arrival": {
+    "iataCode": "FRA",
+    "icaoCode": "EDDF",
+    "terminal": "1",
+    "gate": "A34",
+    "scheduledTime": "2018-11-07T20:55:00.000",
+    "estimatedTime": "2018-11-07T20:46:00.000",
+    "actualTime": "2018-11-07T20:46:00.000",
+    "estimatedRunway": "2018-11-07T20:30:00.000",
+    "actualRunway": "2018-11-07T20:30:00.000"
+    },
+    "airline": {
+    "name": "Singapore Airlines",
+    "iataCode": "SQ",
+    "icaoCode": "SIA"
+    },
+    "flight": {
+    "number": "2147",
+    "iataNumber": "SQ2147",
+    "icaoNumber": "SIA2147"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Lufthansa",
+    "iataCode": "LH",
+    "icaoCode": "DLH"
+    },
+    "flight": {
+    "number": "1341",
+    "iataNumber": "LH1341",
+    "icaoNumber": "DLH1341"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A5",
+    "scheduledTime": "2018-11-07T19:10:00.000",
+    "estimatedTime": "2018-11-07T19:04:00.000",
+    "actualTime": "2018-11-07T19:04:00.000",
+    "estimatedRunway": "2018-11-07T19:14:00.000",
+    "actualRunway": "2018-11-07T19:14:00.000"
+    },
+    "arrival": {
+    "iataCode": "FRA",
+    "icaoCode": "EDDF",
+    "terminal": "1",
+    "gate": "A34",
+    "scheduledTime": "2018-11-07T20:55:00.000",
+    "estimatedTime": "2018-11-07T20:46:00.000",
+    "actualTime": "2018-11-07T20:46:00.000",
+    "estimatedRunway": "2018-11-07T20:30:00.000",
+    "actualRunway": "2018-11-07T20:30:00.000"
+    },
+    "airline": {
+    "name": "Lufthansa",
+    "iataCode": "LH",
+    "icaoCode": "DLH"
+    },
+    "flight": {
+    "number": "1341",
+    "iataNumber": "LH1341",
+    "icaoNumber": "DLH1341"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "delay": 26,
+    "scheduledTime": "2018-11-07T18:40:00.000",
+    "estimatedTime": "2018-11-07T19:06:00.000",
+    "actualTime": "2018-11-07T19:06:00.000",
+    "estimatedRunway": "2018-11-07T19:20:00.000",
+    "actualRunway": "2018-11-07T19:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "DUB",
+    "icaoCode": "EIDW",
+    "terminal": "2",
+    "delay": 6,
+    "scheduledTime": "2018-11-07T20:55:00.000",
+    "estimatedTime": "2018-11-07T21:01:00.000",
+    "actualTime": "2018-11-07T21:01:00.000",
+    "estimatedRunway": "2018-11-07T20:50:00.000",
+    "actualRunway": "2018-11-07T20:50:00.000"
+    },
+    "airline": {
+    "name": "Aer Lingus",
+    "iataCode": "EI",
+    "icaoCode": "EIN"
+    },
+    "flight": {
+    "number": "677",
+    "iataNumber": "EI677",
+    "icaoNumber": "EIN677"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "delay": 12,
+    "scheduledTime": "2018-11-07T18:55:00.000",
+    "estimatedTime": "2018-11-07T19:07:00.000",
+    "actualTime": "2018-11-07T19:07:00.000",
+    "estimatedRunway": "2018-11-07T19:18:00.000",
+    "actualRunway": "2018-11-07T19:18:00.000"
+    },
+    "arrival": {
+    "iataCode": "BVA",
+    "icaoCode": "LFOB",
+    "terminal": "T2",
+    "scheduledTime": "2018-11-07T21:20:00.000",
+    "estimatedTime": "2018-11-07T21:15:00.000",
+    "actualTime": "2018-11-07T21:15:00.000"
+    },
+    "airline": {
+    "name": "Ryanair",
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "number": "8413",
+    "iataNumber": "FR8413",
+    "icaoNumber": "RYR8413"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "delay": 3,
+    "scheduledTime": "2018-11-07T19:10:00.000",
+    "estimatedTime": "2018-11-07T19:13:00.000",
+    "actualTime": "2018-11-07T19:13:00.000",
+    "estimatedRunway": "2018-11-07T19:24:00.000",
+    "actualRunway": "2018-11-07T19:24:00.000"
+    },
+    "arrival": {
+    "iataCode": "AGP",
+    "icaoCode": "LEMG",
+    "delay": 15,
+    "scheduledTime": "2018-11-07T22:40:00.000",
+    "estimatedTime": "2018-11-07T22:55:00.000",
+    "actualTime": "2018-11-07T22:55:00.000",
+    "estimatedRunway": "2018-11-07T22:49:00.000",
+    "actualRunway": "2018-11-07T22:49:00.000"
+    },
+    "airline": {
+    "name": "Ryanair",
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "number": "2273",
+    "iataNumber": "FR2273",
+    "icaoNumber": "RYR2273"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T19:25:00.000",
+    "estimatedRunway": "2018-11-07T19:31:00.000",
+    "actualRunway": "2018-11-07T19:31:00.000"
+    },
+    "arrival": {
+    "iataCode": "GOT",
+    "icaoCode": "ESGG",
+    "terminal": "T1",
+    "gate": "14",
+    "scheduledTime": "2018-11-07T21:35:00.000",
+    "estimatedRunway": "2018-11-07T21:15:00.000",
+    "actualRunway": "2018-11-07T21:15:00.000"
+    },
+    "airline": {
+    "name": "Wizz Air",
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "number": "2405",
+    "iataNumber": "W62405",
+    "icaoNumber": "WZZ2405"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "scheduledTime": "2018-11-07T19:30:00.000",
+    "estimatedRunway": "2018-11-07T22:46:00.000",
+    "actualRunway": "2018-11-07T22:46:00.000"
+    },
+    "arrival": {
+    "iataCode": "OTP",
+    "icaoCode": "LROP",
+    "scheduledTime": "2018-11-07T21:45:00.000",
+    "estimatedRunway": "2018-11-08T00:39:00.000"
+    },
+    "airline": {
+    "name": "TAROM",
+    "iataCode": "RO",
+    "icaoCode": "ROT"
+    },
+    "flight": {
+    "number": "238",
+    "iataNumber": "RO238",
+    "icaoNumber": "ROT238"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "scheduledTime": "2018-11-07T19:50:00.000",
+    "estimatedTime": "2018-11-07T19:42:00.000",
+    "actualTime": "2018-11-07T19:42:00.000",
+    "estimatedRunway": "2018-11-07T19:53:00.000",
+    "actualRunway": "2018-11-07T19:53:00.000"
+    },
+    "arrival": {
+    "iataCode": "WAW",
+    "icaoCode": "EPWA",
+    "baggage": "2",
+    "delay": 5,
+    "scheduledTime": "2018-11-07T21:10:00.000",
+    "estimatedTime": "2018-11-07T21:15:00.000",
+    "actualTime": "2018-11-07T21:15:00.000",
+    "estimatedRunway": "2018-11-07T20:58:00.000",
+    "actualRunway": "2018-11-07T20:58:00.000"
+    },
+    "airline": {
+    "name": "LOT - Polish Airlines",
+    "iataCode": "LO",
+    "icaoCode": "LOT"
+    },
+    "flight": {
+    "number": "532",
+    "iataNumber": "LO532",
+    "icaoNumber": "LOT532"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T19:55:00.000",
+    "estimatedTime": "2018-11-07T19:51:00.000",
+    "actualTime": "2018-11-07T19:51:00.000",
+    "estimatedRunway": "2018-11-07T19:59:00.000",
+    "actualRunway": "2018-11-07T19:59:00.000"
+    },
+    "arrival": {
+    "iataCode": "ATH",
+    "icaoCode": "LGAV",
+    "scheduledTime": "2018-11-07T22:55:00.000",
+    "estimatedTime": "2018-11-07T22:48:00.000",
+    "actualTime": "2018-11-07T22:48:00.000",
+    "estimatedRunway": "2018-11-07T22:45:00.000",
+    "actualRunway": "2018-11-07T22:45:00.000"
+    },
+    "airline": {
+    "name": "Ryanair",
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "number": "1243",
+    "iataNumber": "FR1243",
+    "icaoNumber": "RYR1243"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A7",
+    "scheduledTime": "2018-11-07T20:00:00.000",
+    "estimatedTime": "2018-11-07T19:55:00.000",
+    "actualTime": "2018-11-07T19:55:00.000",
+    "estimatedRunway": "2018-11-07T20:05:00.000",
+    "actualRunway": "2018-11-07T20:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "ZRH",
+    "icaoCode": "LSZH",
+    "terminal": "1",
+    "baggage": "14",
+    "scheduledTime": "2018-11-07T21:35:00.000",
+    "estimatedTime": "2018-11-07T21:21:00.000",
+    "actualTime": "2018-11-07T21:21:00.000",
+    "estimatedRunway": "2018-11-07T21:15:00.000",
+    "actualRunway": "2018-11-07T21:15:00.000"
+    },
+    "airline": {
+    "name": "SWISS",
+    "iataCode": "LX",
+    "icaoCode": "SWR"
+    },
+    "flight": {
+    "number": "2259",
+    "iataNumber": "LX2259",
+    "icaoNumber": "SWR2259"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T20:05:00.000",
+    "estimatedRunway": "2018-11-07T20:14:00.000",
+    "actualRunway": "2018-11-07T20:14:00.000"
+    },
+    "arrival": {
+    "iataCode": "MXP",
+    "icaoCode": "LIMC",
+    "terminal": "1",
+    "baggage": "04",
+    "scheduledTime": "2018-11-07T21:45:00.000",
+    "estimatedTime": "2018-11-07T21:45:00.000",
+    "estimatedRunway": "2018-11-07T21:31:00.000",
+    "actualRunway": "2018-11-07T21:31:00.000"
+    },
+    "airline": {
+    "name": "Wizz Air",
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "number": "2335",
+    "iataNumber": "W62335",
+    "icaoNumber": "WZZ2335"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "delay": 2,
+    "scheduledTime": "2018-11-07T20:05:00.000",
+    "estimatedTime": "2018-11-07T20:07:00.000",
+    "actualTime": "2018-11-07T20:07:00.000",
+    "estimatedRunway": "2018-11-07T20:18:00.000",
+    "actualRunway": "2018-11-07T20:18:00.000"
+    },
+    "arrival": {
+    "iataCode": "PRG",
+    "icaoCode": "LKPR",
+    "terminal": "2",
+    "baggage": "23",
+    "scheduledTime": "2018-11-07T21:15:00.000",
+    "estimatedTime": "2018-11-07T21:13:00.000",
+    "actualTime": "2018-11-07T21:13:00.000",
+    "estimatedRunway": "2018-11-07T21:08:00.000",
+    "actualRunway": "2018-11-07T21:08:00.000"
+    },
+    "airline": {
+    "name": "SmartWings",
+    "iataCode": "QS",
+    "icaoCode": "TVS"
+    },
+    "flight": {
+    "number": "8799",
+    "iataNumber": "QS8799",
+    "icaoNumber": "TVS8799"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "CSA",
+    "iataCode": "OK",
+    "icaoCode": "CSA"
+    },
+    "flight": {
+    "number": "799",
+    "iataNumber": "OK799",
+    "icaoNumber": "CSA799"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "delay": 2,
+    "scheduledTime": "2018-11-07T20:05:00.000",
+    "estimatedTime": "2018-11-07T20:07:00.000",
+    "actualTime": "2018-11-07T20:07:00.000",
+    "estimatedRunway": "2018-11-07T20:18:00.000",
+    "actualRunway": "2018-11-07T20:18:00.000"
+    },
+    "arrival": {
+    "iataCode": "PRG",
+    "icaoCode": "LKPR",
+    "terminal": "2",
+    "baggage": "23",
+    "scheduledTime": "2018-11-07T21:15:00.000",
+    "estimatedTime": "2018-11-07T21:13:00.000",
+    "actualTime": "2018-11-07T21:13:00.000",
+    "estimatedRunway": "2018-11-07T21:08:00.000",
+    "actualRunway": "2018-11-07T21:08:00.000"
+    },
+    "airline": {
+    "name": "CSA",
+    "iataCode": "OK",
+    "icaoCode": "CSA"
+    },
+    "flight": {
+    "number": "799",
+    "iataNumber": "OK799",
+    "icaoNumber": "CSA799"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T20:10:00.000",
+    "estimatedTime": "2018-11-07T20:10:00.000",
+    "estimatedRunway": "2018-11-07T20:11:00.000",
+    "actualRunway": "2018-11-07T20:11:00.000"
+    },
+    "arrival": {
+    "iataCode": "PEK",
+    "icaoCode": "ZBAA",
+    "terminal": "3",
+    "scheduledTime": "2018-11-08T12:40:00.000",
+    "estimatedTime": "2018-11-08T12:02:00.000"
+    },
+    "airline": {
+    "name": "Air China",
+    "iataCode": "CA",
+    "icaoCode": "CCA"
+    },
+    "flight": {
+    "number": "722",
+    "iataNumber": "CA722",
+    "icaoNumber": "CCA722"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "delay": 6,
+    "scheduledTime": "2018-11-07T20:05:00.000",
+    "estimatedTime": "2018-11-07T20:11:00.000",
+    "actualTime": "2018-11-07T20:11:00.000",
+    "estimatedRunway": "2018-11-07T20:24:00.000",
+    "actualRunway": "2018-11-07T20:24:00.000"
+    },
+    "arrival": {
+    "iataCode": "IST",
+    "icaoCode": "LTBA",
+    "terminal": "I",
+    "delay": 1,
+    "scheduledTime": "2018-11-08T00:10:00.000",
+    "estimatedTime": "2018-11-08T00:11:00.000",
+    "actualTime": "2018-11-08T00:11:00.000",
+    "estimatedRunway": "2018-11-08T00:06:00.000",
+    "actualRunway": "2018-11-08T00:06:00.000"
+    },
+    "airline": {
+    "name": "Turkish Airlines",
+    "iataCode": "TK",
+    "icaoCode": "THY"
+    },
+    "flight": {
+    "number": "1038",
+    "iataNumber": "TK1038",
+    "icaoNumber": "THY1038"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "delay": 25,
+    "scheduledTime": "2018-11-07T20:00:00.000",
+    "estimatedTime": "2018-11-07T20:25:00.000",
+    "actualTime": "2018-11-07T20:25:00.000",
+    "estimatedRunway": "2018-11-07T20:37:00.000",
+    "actualRunway": "2018-11-07T20:37:00.000"
+    },
+    "arrival": {
+    "iataCode": "BCN",
+    "icaoCode": "LEBL",
+    "terminal": "2",
+    "delay": 22,
+    "scheduledTime": "2018-11-07T22:35:00.000",
+    "estimatedTime": "2018-11-07T22:57:00.000",
+    "actualTime": "2018-11-07T22:57:00.000",
+    "estimatedRunway": "2018-11-07T22:49:00.000"
+    },
+    "airline": {
+    "name": "Ryanair",
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "number": "8393",
+    "iataNumber": "FR8393",
+    "icaoNumber": "RYR8393"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "scheduledTime": "2018-11-07T20:30:00.000",
+    "estimatedTime": "2018-11-07T20:27:00.000",
+    "actualTime": "2018-11-07T20:27:00.000",
+    "estimatedRunway": "2018-11-07T20:35:00.000",
+    "actualRunway": "2018-11-07T20:35:00.000"
+    },
+    "arrival": {
+    "iataCode": "DUS",
+    "icaoCode": "EDDL",
+    "gate": "B91",
+    "scheduledTime": "2018-11-07T22:20:00.000",
+    "estimatedTime": "2018-11-07T22:16:00.000",
+    "actualTime": "2018-11-07T22:16:00.000",
+    "estimatedRunway": "2018-11-07T22:10:00.000",
+    "actualRunway": "2018-11-07T22:10:00.000"
+    },
+    "airline": {
+    "name": "Eurowings",
+    "iataCode": "EW",
+    "icaoCode": "EWG"
+    },
+    "flight": {
+    "number": "9783",
+    "iataNumber": "EW9783",
+    "icaoNumber": "EWG9783"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "scheduledTime": "2018-11-07T20:30:00.000",
+    "estimatedTime": "2018-11-07T20:30:00.000",
+    "actualTime": "2018-11-07T20:30:00.000",
+    "estimatedRunway": "2018-11-07T20:39:00.000",
+    "actualRunway": "2018-11-07T20:39:00.000"
+    },
+    "arrival": {
+    "iataCode": "HAM",
+    "icaoCode": "EDDH",
+    "terminal": "2",
+    "scheduledTime": "2018-11-07T22:10:00.000",
+    "estimatedTime": "2018-11-07T22:04:00.000",
+    "actualTime": "2018-11-07T22:04:00.000",
+    "estimatedRunway": "2018-11-07T22:00:00.000",
+    "actualRunway": "2018-11-07T22:00:00.000"
+    },
+    "airline": {
+    "name": "Eurowings",
+    "iataCode": "EW",
+    "icaoCode": "EWG"
+    },
+    "flight": {
+    "number": "7783",
+    "iataNumber": "EW7783",
+    "icaoNumber": "EWG7783"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "delay": 14,
+    "scheduledTime": "2018-11-07T20:20:00.000",
+    "estimatedTime": "2018-11-07T20:34:00.000",
+    "actualTime": "2018-11-07T20:34:00.000",
+    "estimatedRunway": "2018-11-07T20:41:00.000",
+    "actualRunway": "2018-11-07T20:41:00.000"
+    },
+    "arrival": {
+    "iataCode": "STR",
+    "icaoCode": "EDDS",
+    "terminal": "1",
+    "delay": 2,
+    "scheduledTime": "2018-11-07T21:50:00.000",
+    "estimatedTime": "2018-11-07T21:52:00.000",
+    "actualTime": "2018-11-07T21:52:00.000",
+    "estimatedRunway": "2018-11-07T21:45:00.000",
+    "actualRunway": "2018-11-07T21:45:00.000"
+    },
+    "airline": {
+    "name": "Eurowings",
+    "iataCode": "EW",
+    "icaoCode": "EWG"
+    },
+    "flight": {
+    "number": "2785",
+    "iataNumber": "EW2785",
+    "icaoNumber": "EWG2785"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "delay": 2,
+    "scheduledTime": "2018-11-07T20:40:00.000",
+    "estimatedTime": "2018-11-07T20:42:00.000",
+    "actualTime": "2018-11-07T20:42:00.000",
+    "estimatedRunway": "2018-11-07T20:49:00.000",
+    "actualRunway": "2018-11-07T20:49:00.000"
+    },
+    "arrival": {
+    "iataCode": "CGN",
+    "icaoCode": "EDDK",
+    "terminal": "1",
+    "gate": "C40",
+    "scheduledTime": "2018-11-07T22:30:00.000",
+    "estimatedTime": "2018-11-07T22:22:00.000",
+    "actualTime": "2018-11-07T22:22:00.000",
+    "estimatedRunway": "2018-11-07T22:15:00.000"
+    },
+    "airline": {
+    "name": "Eurowings",
+    "iataCode": "EW",
+    "icaoCode": "EWG"
+    },
+    "flight": {
+    "number": "789",
+    "iataNumber": "EW789",
+    "icaoNumber": "EWG789"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A4",
+    "scheduledTime": "2018-11-07T20:45:00.000",
+    "estimatedTime": "2018-11-07T20:44:00.000",
+    "actualTime": "2018-11-07T20:44:00.000"
+    },
+    "arrival": {
+    "iataCode": "MUC",
+    "icaoCode": "EDDM",
+    "terminal": "2",
+    "scheduledTime": "2018-11-07T22:00:00.000",
+    "estimatedTime": "2018-11-07T21:48:00.000",
+    "actualTime": "2018-11-07T21:48:00.000"
+    },
+    "airline": {
+    "name": "Lufthansa",
+    "iataCode": "LH",
+    "icaoCode": "DLH"
+    },
+    "flight": {
+    "number": "1681",
+    "iataNumber": "LH1681",
+    "icaoNumber": "DLH1681"
+    },
+    "codeshared": {
+    "airline": {
+    "name": "Lufthansa CityLine",
+    "iataCode": "CL",
+    "icaoCode": "CLH"
+    },
+    "flight": {
+    "number": "1681",
+    "iataNumber": "CL1681",
+    "icaoNumber": "CLH1681"
+    }
+    }
+    },
+    {
+    "type": "departure",
+    "status": "landed",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "gate": "A4",
+    "scheduledTime": "2018-11-07T20:45:00.000",
+    "estimatedTime": "2018-11-07T20:44:00.000",
+    "actualTime": "2018-11-07T20:44:00.000"
+    },
+    "arrival": {
+    "iataCode": "MUC",
+    "icaoCode": "EDDM",
+    "terminal": "2",
+    "scheduledTime": "2018-11-07T22:00:00.000",
+    "estimatedTime": "2018-11-07T21:48:00.000",
+    "actualTime": "2018-11-07T21:48:00.000"
+    },
+    "airline": {
+    "name": "Lufthansa CityLine",
+    "iataCode": "CL",
+    "icaoCode": "CLH"
+    },
+    "flight": {
+    "number": "1681",
+    "iataNumber": "CL1681",
+    "icaoNumber": "CLH1681"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "delay": 15,
+    "scheduledTime": "2018-11-07T20:40:00.000",
+    "estimatedTime": "2018-11-07T20:55:00.000",
+    "estimatedRunway": "2018-11-07T21:12:00.000",
+    "actualRunway": "2018-11-07T21:12:00.000"
+    },
+    "arrival": {
+    "iataCode": "MAN",
+    "icaoCode": "EGCC",
+    "terminal": "3",
+    "scheduledTime": "2018-11-07T22:35:00.000",
+    "estimatedTime": "2018-11-07T22:27:00.000",
+    "estimatedRunway": "2018-11-07T22:25:00.000"
+    },
+    "airline": {
+    "name": "Ryanair",
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "number": "8357",
+    "iataNumber": "FR8357",
+    "icaoNumber": "RYR8357"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "delay": 7,
+    "scheduledTime": "2018-11-07T21:00:00.000",
+    "estimatedTime": "2018-11-07T21:07:00.000",
+    "estimatedRunway": "2018-11-07T21:20:00.000",
+    "actualRunway": "2018-11-07T21:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "EMA",
+    "icaoCode": "EGNX",
+    "scheduledTime": "2018-11-07T22:40:00.000",
+    "estimatedTime": "2018-11-07T22:29:00.000",
+    "estimatedRunway": "2018-11-07T22:24:00.000"
+    },
+    "airline": {
+    "name": "Ryanair",
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "number": "222",
+    "iataNumber": "FR222",
+    "icaoNumber": "RYR222"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T21:25:00.000",
+    "estimatedTime": "2018-11-07T21:25:00.000",
+    "estimatedRunway": "2018-11-07T21:37:00.000",
+    "actualRunway": "2018-11-07T21:37:00.000"
+    },
+    "arrival": {
+    "iataCode": "STN",
+    "icaoCode": "EGSS",
+    "terminal": "1",
+    "delay": 41,
+    "scheduledTime": "2018-11-07T23:05:00.000",
+    "estimatedTime": "2018-11-07T23:46:00.000",
+    "estimatedRunway": "2018-11-07T22:54:00.000"
+    },
+    "airline": {
+    "name": "Ryanair",
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "number": "8369",
+    "iataNumber": "FR8369",
+    "icaoNumber": "RYR8369"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T21:50:00.000",
+    "estimatedRunway": "2018-11-07T22:05:00.000",
+    "actualRunway": "2018-11-07T22:05:00.000"
+    },
+    "arrival": {
+    "iataCode": "SOF",
+    "icaoCode": "LBSF",
+    "terminal": "T1",
+    "delay": 20,
+    "scheduledTime": "2018-11-08T00:10:00.000",
+    "estimatedTime": "2018-11-08T00:30:00.000"
+    },
+    "airline": {
+    "name": "Wizz Air",
+    "iataCode": "W6",
+    "icaoCode": "WZZ"
+    },
+    "flight": {
+    "number": "2471",
+    "iataNumber": "W62471",
+    "icaoNumber": "WZZ2471"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T22:20:00.000",
+    "estimatedTime": "2018-11-07T22:12:00.000",
+    "actualTime": "2018-11-07T22:12:00.000",
+    "estimatedRunway": "2018-11-07T22:20:00.000",
+    "actualRunway": "2018-11-07T22:20:00.000"
+    },
+    "arrival": {
+    "iataCode": "CPH",
+    "icaoCode": "EKCH",
+    "terminal": "3",
+    "delay": 30,
+    "scheduledTime": "2018-11-08T00:10:00.000",
+    "estimatedTime": "2018-11-08T00:40:00.000"
+    },
+    "airline": {
+    "name": "Norwegian Air International",
+    "iataCode": "D8",
+    "icaoCode": "IBK"
+    },
+    "flight": {
+    "number": "3553",
+    "iataNumber": "D83553",
+    "icaoNumber": "IBK3553"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "active",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2B",
+    "scheduledTime": "2018-11-07T22:30:00.000",
+    "estimatedTime": "2018-11-07T22:29:00.000",
+    "estimatedRunway": "2018-11-07T22:39:00.000",
+    "actualRunway": "2018-11-07T22:39:00.000"
+    },
+    "arrival": {
+    "iataCode": "NUE",
+    "icaoCode": "EDDN",
+    "baggage": "02",
+    "scheduledTime": "2018-11-07T23:55:00.000",
+    "estimatedTime": "2018-11-07T23:45:00.000",
+    "estimatedRunway": "2018-11-07T23:42:00.000"
+    },
+    "airline": {
+    "name": "Ryanair",
+    "iataCode": "FR",
+    "icaoCode": "RYR"
+    },
+    "flight": {
+    "number": "8399",
+    "iataNumber": "FR8399",
+    "icaoNumber": "RYR8399"
+    }
+    },
+    {
+    "type": "departure",
+    "status": "scheduled",
+    "departure": {
+    "iataCode": "BUD",
+    "icaoCode": "LHBP",
+    "terminal": "2A",
+    "scheduledTime": "2018-11-07T23:30:00.000",
+    "estimatedTime": "2018-11-07T23:30:00.000"
+    },
+    "arrival": {
+    "iataCode": "SVO",
+    "icaoCode": "UUEE",
+    "terminal": "D",
+    "baggage": "6",
+    "delay": 10,
+    "scheduledTime": "2018-11-08T04:00:00.000",
+    "estimatedTime": "2018-11-08T04:10:00.000"
+    },
+    "airline": {
+    "name": "Aeroflot",
+    "iataCode": "SU",
+    "icaoCode": "AFL"
+    },
+    "flight": {
+    "number": "2469",
+    "iataNumber": "SU2469",
+    "icaoNumber": "AFL2469"
+    }
+    }
+    ]
