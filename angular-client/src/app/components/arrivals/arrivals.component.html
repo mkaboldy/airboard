@@ -2,18 +2,22 @@
   <thead>
     <tr>
       <th>Status</th>
+      <th>Airline</th>
       <th>Flight</th>
       <th>From</th>
       <th>Scheduled</th>
+      <th>Expected</th>
       <th>Remark</th>
     </tr>
   </thead>
   <tbody>
     <tr *ngFor="let arrival of arrivals">
-      <td>{{ arrival.status }}</td>
-      <td>{{ arrival.flight }}</td>
-      <td>{{ arrival.from }}</td>
-      <td>{{ arrival.scheduled }}</td>
+      <td>{{ arrival.status}}</td>
+      <td>{{ arrival.airline.name }}</td>
+      <td>{{ arrival.flight.iataNumber }}</td>
+      <td>{{ arrival.departure.iataCode }}</td>
+      <td>{{ arrival.arrival.scheduledTime }}</td>
+      <td>{{ arrival.arrival.actualTime }}</td>
       <td>{{ arrival.remark }}</td>
     </tr>
   </tbody>

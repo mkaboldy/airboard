@@ -1,46 +1,7 @@
-﻿module.exports = (router) => {
-    router.get('/arrivals', (req, res) => {
-        res.json({
-            success: true,
-            arrivals: [
-                {
-                    status: '',
-                    flight: 'KL1148',
-                    from: 'Rotterdam',
-                    scheduled: '11:45',
-                    remark: 'Landed 11:41',
-                },
-                {
-                    status: '',
-                    flight: 'LH1481',
-                    from: 'Köln',
-                    scheduled: '11:50',
-                    remark: 'Landed 11:49',
-                },
-                {
-                    status: '',
-                    flight: 'AFH1481',
-                    from: 'Paris CDG',
-                    scheduled: '11:50',
-                    remark: 'Expected 12:15',
-                },
-                {
-                    status: '',
-                    flight: 'BA5148',
-                    from: 'London Luton',
-                    scheduled: '12:50',
-                    remark: 'Expected 15:00',
-                },
-                {
-                    status: '',
-                    flight: 'MA602',
-                    from: 'Amsterdam',
-                    scheduled: '12:50',
-                    remark: 'Cancelled',
-                },
-            ],
-        });
-    });
+﻿const timeTable = require('../models/timetable');
+const airport = require('../models/airports');
+
+module.exports = (router) => {
 
     router.get('/departures', (req, res)=> {
         res.json({
@@ -84,5 +45,27 @@
             ],
         });
     });
+
+    router.get('/arrivals', (req, res) => {
+        timeTable.find({
+        }, { _id: 0 }).lean().exec((err, arrivals) => {
+            if (err) {
+                res.json({ success: false, message: "Error retrieving timetable: " + err.message });
+            } else {
+                arrivals = arrivals.map((arrival) => {                    
+                    airport.findOne({codeIataAirport: arrival.departure.iataCode},(err,res)=>{
+                        arrival.fromAirport = res;
+                    }).then((res)=>{
+                        arrival.fromAirport = res;
+                        console.log(res)
+                    });
+                    // console.log(arrival);
+                    return arrival;
+                });
+                res.json({ success: true, arrivals: arrivals });                
+            }            
+        });
+    });
+
     return router;
 }
